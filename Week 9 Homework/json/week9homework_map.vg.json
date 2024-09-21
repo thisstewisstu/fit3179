@@ -23,28 +23,20 @@
         "stroke": "white"
       }
     },
-
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/rowanhogan/australian-states/refs/heads/master/states.geojson",
+        "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/week9_homework/Week%209%20Homework/json/states.json",
         "format": {
           "type": "json"
         }
       },
-      "transform": [
-        {
-          "filter": "datum.STATE_NAME == 'New South Wales'"
-        }
-      ],
       "mark": {
         "type": "geoshape",
         "fill": null,
         "stroke": "red",
         "strokeWidth": 2
       }
-    }
-    ,
-
+    },
     {
       "data": {
         "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/week9_homework/Week%209%20Homework/json/map_graticules.json",
@@ -64,9 +56,14 @@
         "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/week9_homework/Week%209%20Homework/data/merged_schools_data.csv",
         "format": {"type": "csv"}
       },
+      "transform": [
+        {
+          "calculate": "datum.ItemName != '' ? datum.ItemName : null", 
+          "as": "ConditionalItemName"
+        }
+      ],
       "mark": {
-        "type": "circle",
-        "tooltip": {"content": "data"}
+        "type": "circle"
       },
       "encoding": {
         "longitude": {"field": "Longitude", "type": "quantitative"},
@@ -75,13 +72,26 @@
           "field": "EndorsedSignificance",
           "type": "quantitative",
           "title": "Endorsed Significance",
-          "scale": {"domain": [0, 4], "range": [50, 500]} 
+          "scale": {
+            "domain": [0, 1, 2, 3, 4],  
+            "range": [50, 100, 200, 300, 450]
+          },
+          "legend": {
+            "title": "Endorsed Significance",
+            "values": [0, 1, 2, 3, 4]  
+          }
         },
         "color": {
           "field": "HeritageTypeName",
           "type": "nominal",
           "title": "Heritage Type"
-        }
+        },
+        "tooltip": [
+          {"field": "SchoolName", "type": "nominal", "title": "School Name"},
+          {"field": "ConditionalItemName", "type": "nominal", "title": "Heritage Item(s)"},
+          {"field": "HeritageTypeName", "type": "nominal", "title": "Heritage Type"},
+          {"field": "EndorsedSignificance", "type": "quantitative", "title": "Endorsed Significance"}
+        ]
       }
     }
   ]
