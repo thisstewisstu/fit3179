@@ -5,8 +5,8 @@
   "title": "Heritage Sites of NSW Government Schools in 2020",
   "projection": {
     "type": "equirectangular",
-    "center": [133, -27],
-    "scale": 700
+    "center": [151.2, -33.5],
+    "scale": 1500
   },
   "layer": [
     {
@@ -39,12 +39,27 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/week9_homework/Week%209%20Homework/merged_schools_data.csv",
-        "format": {"type": "json"}
+        "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/week9_homework/Week%209%20Homework/data/merged_schools_data.csv",
+        "format": {"type": "csv"}
       },
       "mark": {
-        "type": "geoshape",
+        "type": "circle",
         "tooltip": {"content": "data"}
+      },
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "size": {
+          "field": "EndorsedSignificance",
+          "type": "quantitative",
+          "title": "Endorsed Significance",
+          "scale": {"domain": [0, 4], "range": [50, 500]} 
+        },
+        "color": {
+          "field": "HeritageTypeName",
+          "type": "nominal",
+          "title": "Heritage Type"
+        }
       }
     }
   ]
