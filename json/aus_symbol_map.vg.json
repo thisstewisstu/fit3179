@@ -5,7 +5,7 @@
   "title": "Heritage Sites of NSW Government Schools in 2020",
   "projection": {
     "type": "equirectangular",
-    "center": [151.2, -33.5],
+    "center": [133, -28],
     "scale": 1500
   },
   "layer": [
@@ -25,7 +25,7 @@
     },
     {
       "data": {
-        "url": "https://github.com/thisstewisstu/fit3179/blob/main/json/states.geojson",
+        "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/json/aus_with_borders.json",
         "format": {
           "type": "json"
         }
