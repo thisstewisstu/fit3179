@@ -1,4 +1,4 @@
-School_code,AgeID,ItemName,Street,Town_suburb,Postcode,Latitude,Longitude
+School_code,AgeID,SchoolName,Street,Town_suburb,Postcode,Latitude,Longitude
 5103,48586,Arncliffe West Infants School,Loftus St,Arncliffe ,2205,-33.931832,151.14516
 5128,49159,Nillo Infants School,37 Belmore Road,LORN,2320,-32.727541,151.559611
 8373,54678,Five Islands Secondary College,Military Rd,Port Kembla,2505,-34.489274,150.913541

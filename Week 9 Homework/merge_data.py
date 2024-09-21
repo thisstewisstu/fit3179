@@ -13,19 +13,26 @@ try:
     schools_df = pd.read_csv(os.path.join(directory, 'heritageitem_2020.csv'))  # contains school names and ItemName
     locations_df = pd.read_csv(os.path.join(directory, 'nsw_schools_data.csv'))  # contains latitude and longitude
 
-    # Check the first few rows of each DataFrame to verify column names
-    print("\nSchools DataFrame:")
-    print(schools_df.head())
-    
-    print("\nLocations DataFrame:")
-    print(locations_df.head())
+    # Print the column names to check for 'SchoolName'
+    print("\nColumn names in schools DataFrame:")
+    print(schools_df.columns)
 
-    # Step 4: Merge the DataFrames on the common key 'ItemName'
-    merged_df = pd.merge(schools_df, locations_df, on='ItemName', how='left')  # Use 'how='left'' to keep all rows from schools_df
+    # Step 3: Clean up the 'SchoolName' column in schools_df for matching
+    # Extract the part before and after the dash
+    schools_df['MatchName'] = schools_df['SchoolName'].str.split(' - ').str[0].str.strip().str.lower()  # Part before dash for matching
+    schools_df['ItemName'] = schools_df['SchoolName'].str.split(' - ').str[1].str.strip()  # Part after dash as ItemName
+    
+    # Clean up the SchoolName in locations_df for matching
+    locations_df['SchoolName'] = locations_df['SchoolName'].str.strip().str.lower()  # Adjust this column name if necessary
+
+    # Step 4: Merge the DataFrames on the MatchName column
+    merged_df = pd.merge(schools_df, locations_df, left_on='MatchName', right_on='SchoolName', how='left')  # Keep all from schools_df
 
     # Step 5: Save the merged DataFrame to a new CSV file
-    merged_df.to_csv(os.path.join(directory, 'merged_schools.csv'), index=False)
-    print("\nMerged DataFrame saved as 'merged_schools.csv'.")
-    
+    merged_df.to_csv(os.path.join(directory, 'merged_schools_data.csv'), index=False)
+    print("\nMerged DataFrame saved as 'merged_schools_data.csv'.")
+
 except FileNotFoundError as e:
     print(f"Error: {e}")
+except KeyError as e:
+    print(f"Key error: {e}")
