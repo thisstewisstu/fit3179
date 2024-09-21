@@ -1,0 +1,828 @@
+HeritageItemID,SchoolName,HeritageTypeName,HeritageGroupName,EndorsedSignificance,ListingNumber,AreaHectares,AboriginalAreaName,Suburb,Address,LocalGovtAreaName,StreetNumber,StreetName
+5063842,Albury Public School - Building B00B,Built,,1,5,2.67269,Wiradjuri,Albury,481 David Street Albury 2640,Albury City,481,David Street
+5063843,Albury Public School - Buildings B00G and B00J,Built,,1,5,2.67269,Wiradjuri,Albury,481 David Street Albury 2640,Albury City,481,David Street
+5063845,"Albury High School - Buildings B00A, B00G and B00L, Period Fencing and Significant Trees",Built,,1,5,1.649,Wiradjuri,Albury,625 Kiewa Street Albury 2640,Albury City,625,Kiewa Street
+5063846,Albury High School - Building B00L,Built,,1,5,2.35,Wiradjuri,Albury,625 Kiewa Street Albury 2640,Albury City,625,Kiewa Street
+5063848,Albury Public School - Building B00H,Built,,1,5,2.67269,Wiradjuri,Albury,481 David Street Albury 2640,Albury City,481,David Street
+5063849,Lavington Public School - Memorial Gates,Built,,1,5,2.6304,Wiradjuri,Lavington,494 Urana Road and 497 Hague Street Lavington 2641,Albury City,,494 Urana Road and 497 Hague Street
+5063998,Albury High School,Complex / Group,Education,1,6,3.999,Wiradjuri,Albury,625 Kiewa Street Albury 2640,Albury City,625,Kiewa Street
+5063850,Armidale High School - Building B00B and Grounds,Built,,1,5,18.2531,Anaiwan,Armidale,158-182 Butler Street Armidale 2350,Armidale Dumaresq,158-182,Butler Street
+5063851,Armidale City Public School - Grounds,Landscape,,1,5,2.97331,Anaiwan,Armidale,142-152 Faulkner Street Armidale 2350,Armidale Dumaresq,142-152,Faulkner Street
+5063852,Drummond Memorial Public School - Grounds and Significant Trees,Landscape,,1,5,3.18364,Anaiwan,Armidale,250 Rusden Street Armidale 2350,Armidale Dumaresq,250,Rusden Street
+5063853,Armidale City Public School - Site of Police Residential Complex,Archaeological-Terrestrial,,1,5,0.8751,Anaiwan,Armidale,142-152 Faulkner Street Armidale 2350,Armidale Dumaresq,142-152,Faulkner Street
+5063854,Armidale City Public School - Site of National School and Superior Public School,Archaeological-Terrestrial,,1,5,1.1939,Anaiwan,Armidale,142-152 Faulkner Street Armidale 2350,Armidale Dumaresq,142-152,Faulkner Street
+5063855,Armidale City Public School - Site of Old Burial Ground,Archaeological-Terrestrial,,1,5,0.26941,Anaiwan,Armidale,142-152 Faulkner Street Armidale 2350,Armidale Dumaresq,142-152,Faulkner Street
+5063999,Armidale City Public School,Complex / Group,Education,1,6,2.97331,Anaiwan,Armidale,142-152 Faulkner Street Armidale 2350,Armidale Dumaresq,142-152,Faulkner Street
+5063856,Canterbury Boys High School - Building  B00A,Built,,1,5,2.723,Eora,Ashbury,220-252 Holden Street Ashbury 2193,Ashfield,220-252,Holden Street
+5063857,Summer Hill Public School - Buildings B00B and B00C,Built,,1,5,0.85802,Eora,Summer Hill,20-26 Junction Road Summer Hill 2130,Ashfield,20-26,Junction Road
+5063858,Dobroyd Point Public School,Complex / Group,Education,1,6,1.0232,Eora,Haberfield,87 Waratah Street Haberfield 2045,Ashfield,87,Waratah Street
+5063861,Haberfield Public School,Complex / Group,Education,1,6,1.683,Eora,Haberfield,149A Bland Street Haberfield 2045,Ashfield,149A,Bland Street
+5063879,"Auburn Public School - Buildings B00A-B00C, B00F, B00H, B00J, B00K and B00O and Significant Tree",Built,,1,5,2.25143,Eora,Auburn,72 and 131 Auburn Road Auburn 2144,Auburn,72 and 131,Auburn Road
+5063894,"Auburn North Public School - Buildings B00F, B00G and B00I and Significant Trees",Built,,1,5,3.24822,Eora,Auburn,153-159 Parramatta Road Auburn 2144,Auburn,153-159,Parramatta Road
+5063899,"Berala Public School - Building B00A, B00C and B00G",Built,,1,5,2.42176,Eora,Berala,216 Harrow Road Berala 2141,Auburn,216,Harrow Road
+5063914,"Lidcombe Public School - Buildings B00A, B00B, B00D, B00G, B00H and B00I",Built,,1,5,2.436,Eora,Lidcombe,1 Mills Street Lidcombe 2141,Auburn,1,Mills Street
+5063929,Ballina Public School - Building B00C,Built,,1,5,0.2175,Bundjalung,Ballina,30-52 Crane Street Ballina 2478,Ballina,30-52,Crane Street
+5063930,Ballina Public School - Building B00D,Built,,1,5,0.435,Bundjalung,Ballina,30-52 Crane Street Ballina 2478,Ballina,30-52,Crane Street
+5063932,Ballina Coast High School - Building B00C,Built,,1,5,2.145,Bundjalung,Ballina,37-49 Swift Street Ballina 2478,Ballina,37-49,Swift Street
+5063938,Cabbage Tree Island Public School - Curtilage,Landscape,,1,5,0.8094,Bundjalung,Cabbage Tree Island,Cabbage Tree Island 2477,Ballina,,
+5063944,Fernleigh Public School - Building B00A,Built,,1,5,0.8094,Bundjalung,Fernleigh,451 Fernleigh Road Fernleigh 2479,Ballina,451,Fernleigh Road
+5063945,Rous Public School - Building B00A,Built,,1,5,0.8094,Bundjalung,Rous,248 Rous Road Rous 2477,Ballina,248,Rous Road
+5063946,Bankstown Public School - Buildings B001-B005,Built,,1,5,1.619,Eora,Bankstown,Restwell Street Bankstown 2200,Bankstown,,Restwell Street
+5063947,Bankstown West Public School - Buildings B00A-B00C and B00E,Built,,1,5,1.741,Eora,Bankstown,141 William Street Bankstown 2200,Bankstown,141,William Street
+5063948,"Greenacre Public School - Buildings B00A, B00B and B00E",Built,,1,5,1.76333,Eora,Greenacre,105 Waterloo Road Greenacre 2190,Bankstown,105,Waterloo Road
+5063949,Karningul School - Building B00A,Built,,1,5,1.284471,Eora,Regents Park,2A Bagdad Street Regents Park 2143,Bankstown,2A,Bagdad Street
+5063950,Revesby Public School - Building B00E,Built,,1,5,1.49682,Eora,Revesby,84 The River Road Revesby 2212,Bankstown,84,The River Road
+5066989,Bankstown North Public School - Building B00A,Built,,0,6,,Eora,Bankstown,322 Hume Highway Bankstown 2200,Bankstown,322,Hume Highway
+5063952,Bathurst Public School - Buildings B00D-B00F,Built,,1,5,3.989,Wiradjuri,Bathurst,281 George Street Bathurst 2795,Bathurst Regional,281,George Street
+5063957,Denison College of Secondary Education - Building B00H,Built,,1,5,2.023,Wiradjuri,Bathurst,190 Hope Street Bathurst 2795,Bathurst Regional,190,Hope Street
+5063959,O'Connell Public School - Building B00A,Built,,1,5,0.8094,Wiradjuri,O'Connell,15 Black Mills Lane O'Connell 2795,Bathurst Regional,15,Black Mills Lane
+5063961,Perthville Public School - Buildings B00A and B00C,Built,,1,5,0.2023,Wiradjuri,Perthville,Prince Street Perthville 2795,Bathurst Regional,,Prince Street
+5063962,Bathurst Public School,Complex / Group,Education,1,6,3.989,Wiradjuri,Bathurst,281 George Street Bathurst 2795,Bathurst Regional,281,George Street
+5064000,Denison College of Secondary Education,Complex / Group,Education,1,6,4.046,Wiradjuri,Bathurst,190 Hope Street Bathurst 2795,Bathurst Regional,190,Hope Street
+5064001,Hill End Public School,Complex / Group,Education,1,6,0.83657,Wiradjuri,Hill End,19 Tambaroora Street Hill End 2850,Bathurst Regional,19,Tambaroora Street
+5064003,Perthville Public School,Complex / Group,Education,1,6,1.31092,Wiradjuri,Perthville,Prince Street Perthville 2795,Bathurst Regional,,Prince Street
+5064004,Rockley Public School,Complex / Group,Education,1,6,0.8092,Wiradjuri,Rockley,30 Hill Street Rockley 2795,Bathurst Regional,30,Hill Street
+5064005,Sofala Public School,Complex / Group,Education,1,6,0.645,Wiradjuri,Sofala,Turon Terrace Sofala 2795,Bathurst Regional,,Turon Terrace
+5064006,Wattle Flat Public School,Complex / Group,Education,1,6,0.6071,Wiradjuri,Wattle Flat,3807 Sofala Road Wattle Flat 2795,Bathurst Regional,3807,Sofala Road
+5064007,Bathurst West Public School,Complex / Group,Education,1,6,0.0335,Wiradjuri,Bathurst,35 Suttor Road Bathurst 2795,Bathurst Regional,35,Suttor Road
+5066084,Kelso Public School,Complex / Group,Education,1,6,0.0973,Wiradjuri,Kelso,21 Gilmour Street Kelso 2795,Bathurst Regional,21,Gilmour Street
+5064011,Bega Valley Public School - former CBC Bank,Built,,3,5,0.1015,Dhurga,Bega,21 Auckland Street Bega 2550,Bega Valley,21,Auckland Street
+5064012,"Bega Valley Public School - Buildings B00A, B00C and B00D",Built,,1,5,0.8094,Dhurga,Bega,21 Auckland Street Bega 2550,Bega Valley,21,Auckland Street
+5064013,Bega High School - Memorial Garden,Landscape,,1,5,0.8094,Dhurga,Bega,96-106 Upper Street Bega 2550,Bega Valley,96-106,Upper Street
+5064014,Bemboka Public School - Building B00A,Built,,1,5,1.2595,Ngarigu,Bemboka,43-45 Nimmitabel Street Bemboka 2550,Bega Valley,43-45,Nimmitabel Street
+5064019,Bermagui Public School - Building B00E and Significant Trees,Built,,1,5,0.3036,Dhurga,Bermagui,2-4 George Street Bermagui 2546,Bega Valley,2-Apr,George Street
+5064021,Cobargo Public School - Buildings B00B and B00C,Built,,1,5,2.2081,Dhurga,Cobargo,20-40 Wandellow Road Cobargo 2550,Bega Valley,20-40,Wandellow Road
+5064022,Eden Public School - Building B00F,Built,,1,5,0.2023,Dhurga,Eden,124 Imlay Street Eden 2551,Bega Valley,124,Imlay Street
+5064024,Quaama Public School - Buildings B00A and B00D,Built,,1,5,0.8091,Dhurga,Quaama,48 Cobargo Street Quaama 2550,Bega Valley,48,Cobargo Street
+5064025,Tanja Public School - Buildings B00A and B00C,Built,,1,5,0.8094,Dhurga,Tanja,7 Barrabooka Road Tanja 2550,Bega Valley,7,Barrabooka Road
+5064026,Towamba Public School - Buildings B00A and B00E,Built,,1,5,0.8094,Birdawal,Towamba,9 Towamba Street Towamba 2550,Bega Valley,9,Towamba Street
+5064027,Wyndham Public School - Buildings B00A and B00F,Built,,1,5,0.8092,Birdawal,Wyndham,31-37 Wyndham Road Wyndham 2550,Bega Valley,31-37,Wyndham Road
+5064029,Wyndham Public School,Complex / Group,Education,1,6,0.8092,Birdawal,Wyndham,31-37 Monaro Street Wyndham 2550,Bega Valley,31-37,Monaro Street
+5064030,Bellingen High School - Landscape,Landscape,,1,5,5.155,Gumbainggar,Bellingen,1125 Waterfall Way Bellingen 2454,Bellingen,1125,Waterfall Way
+5064031,Bellingen Public School - Landscape,Landscape,,1,5,3.33,Gumbainggar,Bellingen,32A William Street Bellingen 2454,Bellingen,32A,William Street
+5064035,Cascade Environmental Education Centre - Landscape,Landscape,,1,5,0.6096,Gumbainggar,Cascade,700 Briggsvale Road Cascade 2453,Bellingen,700,Briggsvale Road
+5064037,Dorrigo Public  School - Landscape,Landscape,,1,5,1.7629,Gumbainggar,Dorrigo,2 Hickory Street Dorrigo 2453,Bellingen,2,Hickory Street
+5064038,Dorrigo High School - Landscape,Landscape,,1,5,5.511,Gumbainggar,Dorrigo,4183 Waterfall Way Dorrigo 2453,Bellingen,4183,Waterfall Way
+5064039,Raleigh Public School - Landscape,Landscape,,1,5,1.012,Gumbainggar,Raleigh,12 North Street Raleigh 2454,Bellingen,12,North Street
+5064040,Repton Public School - Landscape,Landscape,,1,5,0.89614,Gumbainggar,Repton,1-11 River Street Repton 2454,Bellingen,1-Nov,River Street
+5064041,Urunga Public School - Landscape,Landscape,,1,5,1.1804,Gumbainggar,Urunga,1-3 Bonville Street Urunga 2455,Bellingen,1-Mar,Bonville Street
+5064043,Tocumwal Public School - Building B00A,Built,,1,5,0.8094,Yota-Yota,Tocumwal,17-33 Hennessy Street Tocumwal 2714,Berrigan,17-33,Hennessy Street
+5064044,Marsden Park Public School - Building B00G,Built,,1,5,0.4047,Dharug,Marsden Park,363 Garfield Road West Marsden Park 2765,Blacktown,363,Garfield Road West
+5064045,Colyton Public School - Building B00K,Built,,1,5,3.232,Dharug,Mount Druitt,59 Nelson Street Mount Druitt 2770,Blacktown,59,Nelson Street
+5064046,Colyton Public School - Building B00I,Built,,1,5,3.232,Dharug,Mount Druitt,59 Nelson Street Mount Druitt 2770,Blacktown,59,Nelson Street
+5064047,Plumpton House School - Building B00A,Built,,1,5,,Dharug,Plumpton,327 Rooty Hill Road Plumpton 2761,Blacktown,327,Rooty Hill Road
+5064048,Casuarina School - Building B00A,Built,,1,5,,Dharug,Riverstone,100 Garfield Road Riverstone 2765,Blacktown,100,Garfield Road
+5064049,Riverstone High School - Building B00M,Built,,1,5,9.594,Dharug,Riverstone,71 McCulloch Street Riverstone 2765,Blacktown,71,McCulloch Street
+5064051,The Meadows Public School - Building B00F,Built,,1,5,0.0803,Dharug,Seven Hills,2C Fuller Street Seven Hills 2147,Blacktown,2C,Fuller Street
+5064052,Seven Hills North Public School - Buildings B00C and B0D,Built,,1,5,0.7705,Dharug,Seven Hills,45 Beethoven Street Seven Hills 2147,Blacktown,45,Beethoven Street
+5064053,Blayney Public School - Building B00A and Significant Trees,Built,,1,5,1.9883,Wiradjuri,Blayney,2 Lindsay Street Blayney 2799,Blayney,2,Lindsay Street
+5064054,Blayney High School - Significant Trees,Landscape,,1,5,6.485,Wiradjuri,Blayney,1 Water Street Blayney 2799,Blayney,1,Water Street
+5064055,Carcoar Public School - Building B00A and B00C and Significant Trees,Built,,1,5,0.7663,Wiradjuri,Carcoar,13 Icely Street Carcoar 2791,Blayney,13,Icely Street
+5064056,Lyndhurst Public School - Buildings B00A and B00B and Significant Trees,Built,,1,5,2.0134,Wiradjuri,Lyndhurst,8 Russart Street Lyndhurst 2797,Blayney,8,Russart Street
+5064057,Millthorpe Public School - Buildings B00B-B00D and Significant Trees,Built,,1,5,0.90462,Wiradjuri,Millthorpe,32 Park Street Millthorpe 2798,Blayney,32,Park Street
+5064058,Millthorpe Public School - Effluent Disposal Area,Landscape,,1,5,1.333,Wiradjuri,Millthorpe,54 Park Street Millthorpe 2798,Blayney,54,Park Street
+5064059,Neville Public School - Building B00A,Built,,1,5,0.8094,Wiradjuri,Neville,8 Crouch Street Neville 2799,Blayney,8,Crouch Street
+5064060,Blayney Public School,Complex / Group,Education,1,6,1.9883,Wiradjuri,Blayney,2 Lindsay Street Blayney 2799,Blayney,2,Lindsay Street
+5064061,Blayney High School,Complex / Group,Education,1,6,6.485,Wiradjuri,Blayney,1 Water Street Blayney 2799,Blayney,1,Water Street
+5064062,Carcoar Public School,Complex / Group,Education,1,6,0.7663,Wiradjuri,Carcoar,13 Icely Street Carcoar 2791,Blayney,13,Icely Street
+5064063,Millthorpe Public School,Complex / Group,Education,1,6,1.19842,Wiradjuri,Millthorpe,32 Park Street Millthorpe 2798,Blayney,32,Park Street
+5064064,Blackheath Public School - Building B00B,Built,,1,5,1.2041,Dharug,Blackheath,201 Great Western Highway Blackheath 2785,Blue Mountains ,201,Great Western Highway
+5064065,Blackheath Public School - Blackheath Stockade site,Archaeological-Terrestrial,,1,5,1.2041,Dharug,Blackheath,201 Great Western Highway Blackheath 2785,Blue Mountains ,201,Great Western Highway
+5064066,Blackheath Public School - Building B00E,Built,,1,5,0.4047,Dharug,Blackheath,207 Great Western Highway Blackheath 2785,Blue Mountains ,207,Great Western Highway
+5064067,The Warruwii Centre - Building B00A,Built,,1,5,0.7208,Dharug,Glenbrook,10 Park Street Glenbrook 2773,Blue Mountains ,10,Park Street
+5064069,Lawson Public School - Former Blue Mountains Inn site,Archaeological-Terrestrial,,1,5,1.64187,Dharug,Lawson,2-12 Wilson Street Lawson 2783,Blue Mountains ,2-Dec,Wilson Street
+5064070,Mount Victoria Public School - Building B00C,Built,,1,5,1.4164,Dharug,Mount Victoria,105-107 Great Western Highway Mount Victoria 2786,Blue Mountains ,105-107,Great Western Highway
+5064071,Wentworth Falls Public School - Buildings B00F and B00G,Built,,1,5,2.4281,Dharug,Wentworth Falls,52-58 Falls Road Wentworth Falls 2782,Blue Mountains ,52-58,Falls Road
+5064072,Mount Victoria Public School,Complex / Group,Education,1,6,1.4164,Dharug,Mount Victoria,105-107 Great Western Highway Mount Victoria 2786,Blue Mountains ,105-107,Great Western Highway
+5064182,Mount Wilson Adult Education Centre - Buildings B00A and B00B,Built,,1,5,3.2504,Dharug,Mount Wilson,51 Wilson Street Mount Wilson 2786,Blue Mountains ,51,Wilson Street
+5064073,"Banksmeadow Public School - Building B00A, B00B and B00S",Built,,1,5,0.8585,Eora,Botany,60 Brighton Street Botany 2019,Botany Bay,60,Brighton Street
+5064074,"Botany Public School - Buildings B00A, B00B and B00C",Built,,1,5,2.1086,Eora,Botany,1076 Botany Road Botany 2019,Botany Bay,1076,Botany Road
+5064076,John Brotchie Nursery School - Building B00A,Built,,1,5,,Eora,Botany,1361 Botany Road Botany 2019,Botany Bay,1361,Botany Road
+5064078,Daceyville Public School - Buildings B00A-B00C and B00E,Built,,1,5,2.881,Eora,Daceyville,Joffre Crescent Daceyville 2032,Botany Bay,,Joffre Crescent
+5064081,Matraville Public School - Building B00B,Built,,1,5,1.8034,Eora,Hillsdale,Bunnerong Road Hillsdale 2036,Botany Bay,,Bunnerong Road
+5064082,Mascot Public School - Building B00A and B00B,Built,,1,5,3.704,Eora,Mascot,King Street Mascot 2020,Botany Bay,,King Street
+5064123,Daceyville Public School,Complex / Group,Education,1,6,2.881,Eora,Daceyville,Joffre Crescent Daceyville 2032,Botany Bay,,Joffre Crescent
+5064124,Botany Public School,Complex / Group,Education,1,6,2.1086,Eora,Botany,1076 Botany Road Botany 2019,Botany Bay,1076,Botany Road
+5064125,John Brotchie Nursery School,Complex / Group,Education,1,6,,Eora,Botany,1361 Botany Road Botany 2019,Botany Bay,1361,Botany Road
+5064085,"Broken Hill North Public School - Buildings B00A-B00C, B00E and B00F",Built,,1,5,3.0804,Wilyagali,Broken Hill,619 Chapple Street Broken Hill 2880,Broken Hill,619,Chapple Street
+5064086,"Broken Hill High School - Buildings B00A, B00E, B00T and B00T1",Built,,1,5,4.6998,Wilyagali,Broken Hill,76 Garnet Street Broken Hill 2880,Broken Hill,76,Garnet Street
+5064087,School of the Air - Building B00A,Built,,1,5,0.26047,Wilyagali,Broken Hill,586 Lane Street Broken Hill 2880,Broken Hill,586,Lane Street
+5064088,Burke Ward Public School - Buildings B00A-B00D and B00F,Built,,1,5,2.2006,Wilyagali,Broken Hill,185 Ratkow Street Broken Hill 2880,Broken Hill,185,Ratkow Street
+5064089,Alma Public School,Complex / Group,Education,1,6,1.9586,Wilyagali,Broken Hill,29 Comstock Street Broken Hill 2880,Broken Hill,29,Comstock Street
+5066455,Broken Hill Public School - Buildings B00A-B00C,Built,,0,6,1.811,Wilyagali,Broken Hill,135 Bromide Street Broken Hill 2880,Broken Hill,135,Bromide Street
+5064090,Burwood Public School - Building B00B,Built,,1,5,0.6718,Eora,Burwood,1-5 Conder Street Burwood 2134,Burwood,1-May,Conder Street
+5064091,Burwood Public School - Building B00A,Built,,1,5,0.6718,Eora,Burwood,1-5 Conder Street Burwood 2134,Burwood,1-May,Conder Street
+5064092,"Burwood Girls High School - Buildings B00A-B00D, B00K, B00M and B00N",Built,,1,5,1.9643,Eora,Burwood,95 Queen Street Burwood 2134,Burwood,95,Queen Street
+5064093,Croydon Public School - Building B00E,Built,,1,5,2.2601,Eora,Croydon,39 Young Street Croydon 2132,Burwood,39,Young Street
+5064094,Bangalow Public School - Building B00A,Built,,1,5,1.214,Bundjalung,Bangalow,45-71 Byron Street Bangalow 2479,Byron,45-71,Byron Street
+5064095,Brunswick Heads Public School - Building B00F,Built,,1,5,0.8802,Bundjalung,Brunswick Heads,Fingal Street Brunswick Heads 2483,Byron,,Fingal Street
+5064096,Byron Bay Public School - Buildings B00A and B00B,Built,,1,5,2.0195,Bundjalung,Byron Bay,17 Kingsley Street Byron Bay 2481,Byron,17,Kingsley Street
+5064097,Eureka Public School - Buildings B00A and B00H and Landscape,Built,,1,5,1.32,Bundjalung,Eureka,438 Eureka Road Eureka 2480,Byron,438,Eureka Road
+5064098,Bangalow Public School,Complex / Group,Education,1,6,1.214,Bundjalung,Bangalow,45-71 Byron Street Bangalow 2479,Byron,45-71,Byron Street
+5064126,Byron Bay Public School,Complex / Group,Education,1,6,2.0195,Bundjalung,Byron Bay,17 Kingsley Street Byron Bay 2481,Byron,17,Kingsley Street
+5064127,Eureka Public School,Complex / Group,Education,1,6,1.32,Bundjalung,Eureka,438 Eureka Road Eureka 2480,Byron,438,Eureka Road
+5064128,Borenore Public School - Building B00B,Built,,1,5,0.8827,Wiradjuri,Borenore,1243 The Escort Way Borenore 2800,Cabonne,1243,The Escort Way
+5064129,Eugowra Public School - Movable Items,Movable / Collection,,1,5,0.7275,Wiradjuri,Eugowra,3 Hill Street Eugowra 2806,Cabonne,3,Hill Street
+5064130,Camden Public School - Building I and Potential Archaeology,Built,,1,5,3.1033,Dhawa,Camden,25 John Street Camden 2570,Camden,25,John Street
+5064131,Camden Park Environmental Education Centre,Landscape,,3,5,,Gandangara,Menangle,60 Woodbridge Road Menangle 2568,Camden,60,Woodbridge Road
+5064132,Cobbitty Public School - Buildings B00A and B00E,Built,,1,5,0.8094,Dhawa,Cobbitty,308 Cobbitty Road Cobbitty 2570,Camden,308,Cobbitty Road
+5064133,Narellan Public School - Buildings B00A and B00B and Landscape,Built,,1,5,2.157,Dharug,Narellan,290 Camden Valley Way Narellan 2567,Camden,290,Camden Valley Way
+5064134,Rossmore Public School - Buildings B00E-B00G,Built,,1,5,0.5571,Dharug,Rossmore,633 Bringelly Road Rossmore 2557,Camden,633,Bringelly Road
+5064136,Camden Public School,Complex / Group,Education,1,6,3.1033,Dhawa,Camden,25 John Street Camden 2570,Camden,25,John Street
+5065988,Leppington Public School - Buildings B00H-B00M,Built,,1,6,0.8062,Dharug,Leppington,144 Rickards Road Leppington 2171,Camden,144,Rickards Road
+5064137,Hurlstone Agricultural High School - Building B00E,Built,,1,5,37.77,Dhawa,Glenfield,Roy Watts Road Glenfield 2167,Campbelltown ,,Roy Watts Road
+5064138,Ingleburn Public School - Buildings B00A and B00F,Built,,1,5,0.5906,Dhawa,Ingleburn,51 Oxford Road Ingleburn 2565,Campbelltown ,51,Oxford Road
+5066343,"Ajuga, Campbell House and Glenfield Park School - Buildings B00A-B00J, B00L and B00N, Residence, Ancillary structures, Landscape and Grounds",Built,,0,6,43.12,Dhawa,Glenfield,Campbelltown Road Glenfield 2167,Campbelltown ,,Campbelltown Road
+5064139,Abbotsford Public School - Buildings B00A and B00B,Built,,1,5,1.77,Eora,Abbotsford,348 Great North Road Abbotsford 2046,Canada Bay,348,Great North Road
+5064140,"Mortlake Public School - Buildings B001, B004, B005 and B006; Grounds and Significant Trees",Built,,1,5,1.5556,Dharug,Concord,15 Archer Street Concord 2137,Canada Bay,15,Archer Street
+5064141,"Concord Public School - Buildings B00A, B00E, B00F and B00H; Grounds and Significant Trees",Built,,1,5,1.17591,Dharug,Concord,66 Burwood Road Concord 2137,Canada Bay,66,Burwood Road
+5064185,Concord High School - Grounds,Landscape,,1,5,3.37583,Eora,Concord,5 Stanley Street Concord 2137,Canada Bay,5,Stanley Street
+5064186,"Concord West Public School - Buildings B00A, B00C and B00D",Built,,1,5,1.6267,Eora,Concord West,368-378 Concord Road Concord West 2138,Canada Bay,368-378,Concord Road
+5064187,Rivendell School - Buildings B00A-B00D and Grounds,Built,,3,5,,Eora,Concord West,1A Hospital Road Concord West 2138,Canada Bay,1A,Hospital Road
+5064189,Victoria Avenue Public School - Grounds,Landscape,,1,5,0.9072,Eora,Concord West,64-66 Victoria Avenue Concord West 2138,Canada Bay,64-66,Victoria Avenue
+5064190,Drummoyne Public School - Building B00A,Built,,1,5,0.93075,Eora,Drummoyne,52 Thompson Street Drummoyne 2047,Canada Bay,52,Thompson Street
+5064191,"Five Dock Public School - Buildings B00A, B00B, B00E and B00G and Landscape",Built,,1,5,1.82,Eora,Five Dock,33 Henry Street Five Dock 2046,Canada Bay,33,Henry Street
+5064192,Strathfield North Public School - Buildings B00B and B00G and Grounds,Built,,1,5,1.509,Eora,North Strathfield,249 Concord Road North Strathfield 2137,Canada Bay,249,Concord Road
+5064193,Drummoyne Public School,Complex / Group,Education,1,6,0.93075,Eora,Drummoyne,52 Thompson Street Drummoyne 2047,Canada Bay,52,Thompson Street
+5064194,Canterbury Public School - Buildings B00A-B00C and B00F,Built,,1,5,0.2037,Eora,Canterbury,44A Church Street Canterbury 2193,Canterbury,44A,Church Street
+5064196,Ashbury Public School,Complex / Group,Education,1,6,1.05842,Eora,Ashbury,36-76 Trevenar Street Ashbury 2193,Canterbury,36-76,Trevenar Street
+5066497,Ashbury Public School - Building B00C,Built,,0,6,0.24026,Eora,Ashbury,36-76 Trevenar Street Ashbury 2193,Canterbury,36-76,Trevenar Street
+5066673,Ashbury Public School - Building B00A,Built,,0,6,0.36738,Eora,Ashbury,36-76 Trevenar Street Ashbury 2193,Canterbury,36-76,Trevenar Street
+5067002,Canterbury Girls High School - Buildings B00A and B00F,Built,,0,6,,Eora,Canterbury,44A Church Street Canterbury 2193,Canterbury,44A,Church Street
+5064197,Carrathool Public School - Residence,Built,,1,5,0.8094,Wiradjuri,Carrathool,3-5 Herriot Street Carrathool 2711,Carrathool,3-May,Herriot Street
+5064198,"Goolgowi Public School - Buildings B00A, B00B and B00D",Built,,1,5,2.294,Wiradjuri,Goolgowi,32-48 Moira Street Goolgowi 2652,Carrathool,32-48,Moira Street
+5064199,"Hillston Central School - Buildings B00E, B00H, B00I and B00J",Built,,1,5,2.12042,Wiradjuri,Hillston,42-68 Moore Street Hillston 2675,Carrathool,42-68,Moore Street
+5064200,Rankins Springs Public School - Buildings B00B-B00D,Built,,1,5,2.29,Wiradjuri,Rankins Springs,13-23 Boree Street Rankins Springs 2669,Carrathool,13-23,Boree Street
+5064201,White Cliffs Public School - Building B00A,Built,,1,5,0.8094,Bagandji,White Cliffs,Johnston Street White Cliffs 2836,Central Darling,,Johnston Street
+5064202,Wilcannia Central School - Building B00F,Built,,1,5,0.2024,Bagandji,Wilcannia,90-98 Woore Street Wilcannia 2836,Central Darling,90-98,Woore Street
+5064203,"Cessnock Public School - Buildings B00A, B0E, B00K and B00L",Built,,1,5,2.15,Darkinjung,Cessnock,1 Rawson Street Cessnock 2325,Cessnock,1,Rawson Street
+5064204,Abermain Public School - Building B00A,Built,,1,5,2.422,Wanaruah,Abermain,1 Goulburn Street Abermain 2326,Cessnock,1,Goulburn Street
+5064205,Cessnock High School - Buildings B00A and B00B,Built,,1,5,2.023,Darkinjung,Cessnock,49E Aberdare Road Cessnock 2325,Cessnock,49E,Aberdare Road
+5064206,Cessnock East Public School - Building B00A,Built,,1,5,3.167,Darkinjung,Cessnock,360 Maitland Road Cessnock 2325,Cessnock,360,Maitland Road
+5064207,Cessnock West Public School - Buildings B00A and B00E,Built,,1,5,0.56292,Darkinjung,Cessnock,113 Alfred Street Cessnock 2325,Cessnock,113,Alfred Street
+5064209,Ellalong Public School - Building B00A and Memorial Gates,Built,,1,5,1.8914,Darkinjung,Ellalong,Helena Street Ellalong 2325,Cessnock,,Helena Street
+5064210,Greta Public School - Building B00A,Built,,1,5,1.62,Wanaruah,Greta,2a Wyndham Street Greta 2334,Cessnock,2a,Wyndham Street
+5064211,Kearsley Public School - Building B00A and Memorial Gates,Built,,1,5,1.188,Darkinjung,Kearsley,130 Caledonia Street Kearsley 2325,Cessnock,130,Caledonia Street
+5064212,Kitchener Public School - Building B00A,Built,,1,5,2.362,Darkinjung,Kitchener,35-58 Richmond Road Kitchener 2325,Cessnock,35-58,Richmond Road
+5064216,Kurri Kurri Public School - Buildings B00A-B00E,Built,,1,5,2.147,Awabakal,Kurri Kurri,202 Lang Street Kurri Kurri 2327,Cessnock,202,Lang Street
+5064223,Kurri Kurri High School - Movable Item,Movable / Collection,,1,5,0.6026,Awabakal,Kurri Kurri,11 Deakin Street Kurri Kurri 2327,Cessnock,11,Deakin Street
+5064224,Laguna Public School - Building B00A,Built,,1,5,0.7882,Darkinjung,Laguna,3738 Great North Road Laguna 2325,Cessnock,3738,Great North Road
+5064225,Millfield Public School - Buildings B00A and B00G and Memorial Gates,Built,,1,5,2.79452,Darkinjung,Millfield,129 Wollombi Road Millfield 2325,Cessnock,129,Wollombi Road
+5064226,Nukalba Public School - Building B00A,Built,,1,5,1.717,Wanaruah,Nulkaba,5 O'Connors Road Nulkaba 2325,Cessnock,5,O'Connors Road
+5064227,Paxton Public School - Building B00A,Built,,1,5,1.821,Darkinjung,Paxton,20 Anderson Avenue Paxton 2325,Cessnock,20,Anderson Avenue
+5064228,Pelaw Main Public School - Memorial Gates,Built,,1,5,1.20485,Awabakal,Pelaw Main,10-16 Abermain Street Pelaw Main 2327,Cessnock,Oct-16,Abermain Street
+5064229,Weston Public School - Buildings B00A and B00E,Built,,1,5,1.69974,Awabakal,Weston,20-34 Sixth Street Weston 2326,Cessnock,20-34,Sixth Street
+5064230,"Wollombi Public School - Buildings B00A, B00B, B00E, B00G and B00H",Built,,1,5,0.8092,Darkinjung,Wollombi,2847 Wollombi Road Wollombi 2325,Cessnock,2847,Wollombi Road
+5064231,Wollombi Public School,Complex / Group,Education,1,6,0.8092,Darkinjung,Wollombi,2847 Wollombi Road Wollombi 2325,Cessnock,2847,Wollombi Road
+5064232,Chatsworth Island Public School - Buildings B00A and B00C,Built,,1,5,0.8094,Bundjalung,Chatsworth Island,136-140 Chatsworth Road Chatsworth Island 2469,Clarence Valley,136-140,Chatsworth Road
+5064235,Copmanhurst Public School - Buildings B00A and B00E,Built,,1,5,1.227,Bundjalung,Copmanhurst,11-13 Prescott Street Copmanhurst 2460,Clarence Valley,Nov-13,Prescott Street
+5064236,Grafton High School - Buildings B00D and B00L,Built,,1,5,4.479,Gumbainggar,Grafton,85-103 Mary Street Grafton 2460,Clarence Valley,85-103,Mary Street
+5064237,Grafton Administrative Office - Buildings D01 and D03,Built,,1,5,4.479,Gumbainggar,Grafton,85-103 Mary Street Grafton 2460,Clarence Valley,85-103,Mary Street
+5064243,Harwood Island Public School - Buildings B00A and B00E,Built,,1,5,1.44,Bundjalung,Harwood Island,Morpeth Street Harwood Island 2465,Clarence Valley,,Morpeth Street
+5064290,Maclean Public School - Buildings B00B and B00J,Built,,1,5,1.87839,Gumbainggar,Maclean,Woodford Street Maclean 2463,Clarence Valley,,Woodford Street
+5064301,Chatsworth Island Public School,Complex / Group,Education,1,6,0.8094,Bundjalung,Chatsworth Island,136-140 Chatsworth Road Chatsworth Island 2469,Clarence Valley,136-140,Chatsworth Road
+5064303,Grafton High School,Complex / Group,Education,1,6,4.479,Gumbainggar,Grafton,85-103 Mary Street Grafton 2460,Clarence Valley,85-103,Mary Street
+5064304,Grafton Administrative Office,Complex / Group,Education,1,6,,Gumbainggar,Grafton,85-103 Mary Street Grafton 2460,Clarence Valley,85-103,Mary Street
+5064305,Grafton High School - Agricultural Plot 1,Complex / Group,Education,1,6,2.436,Gumbainggar,Grafton,Bowtell Avenue Grafton 2460,Clarence Valley,,Bowtell Avenue
+5064308,Grafton High School - Agricultural Plot 2,Complex / Group,Education,1,6,2.12,Gumbainggar,Grafton,Bowtell Avenue Grafton 2460,Clarence Valley,,Bowtell Avenue
+5064309,Harwood Island Public School,Complex / Group,Education,1,6,1.44,Bundjalung,Harwood Island,Morpeth Street Harwood Island 2465,Clarence Valley,,Morpeth Street
+5064310,Maclean Public School,Complex / Group,Education,1,6,1.87839,Bundjalung,Maclean,Woodford Street Maclean 2463,Clarence Valley,,Woodford Street
+5064311,Ulmarra Public School,Complex / Group,Education,1,6,1.512,Gumbainggar,Ulmarra,14 Pacific Highway Ulmarra 2462,Clarence Valley,14,Pacific Highway
+5064314,"Cobar Public School - Buildings B00D, B00E and B00O (Residence)",Built,,1,5,0.4262,Ngiyampaa,Cobar,6-10 Blakey Street Cobar 2835,Cobar,6-Oct,Blakey Street
+5064315,Coffs Harbour State High School - Building B00A,Built,,1,5,3.329266,Gumbainggar,Coffs Harbour,336 Harbour Drive Coffs Harbour 2450,Coffs Harbour ,336,Harbour Drive
+5064316,"Coffs Harbour Public School - Buildings B00B-B00D, B00F, B00G and B00I",Built,,1,5,3.4526,Gumbainggar,Coffs Harbour,7 Salamander Street Coffs Harbour 2450,Coffs Harbour ,7,Salamander Street
+5064317,Coramba Public School - Buildings B00A and B00F,Built,,1,5,0.8094,Gumbainggar,Coramba,6 Short Street Coramba 2450,Coffs Harbour ,6,Short Street
+5064318,Sawtell Public School - Buildng B00F,Built,,1,5,2.25322,Gumbainggar,Sawtell,32 Eleventh Avenue Sawtell 2452,Coffs Harbour ,32,Eleventh Avenue
+5064319,Woolgoolga Public School - Building B00D-B00F and B00G,Built,,1,5,1.42676,Gumbainggar,Woolgoolga,1-15 Scarborough Street Woolgoolga 2456,Coffs Harbour ,Jan-15,Scarborough Street
+5064320,"Ganmain Public School - Buildings B00A, B00B, B00E, B00F, B00H and Grounds",Built,,1,5,3.5778,Wiradjuri,Ganmain,23-41 Langham Street Ganmain 2702,Coolamon,23-41,Langham Street
+5064321,Marrar Public School - Building B00A,Built,,1,5,1.053,Wiradjuri,Marrar,9-13 Centenary Drive Marrar 2652,Coolamon,Sep-13,Centenary Drive
+5064322,"Matong Public School - Buildings B00A-B00C, B00K and Significant Tree",Built,,1,5,2.55,Wiradjuri,Matong,Matong Street Matong 2652,Coolamon,,Matong Street
+5064323,Bredbo Public School - Buildings B00A and B00B,Built,,1,5,1.6295,Ngarigu,Bredbo,Monaro Highway Bredbo 2626,Cooma-Monaro,,Monaro Highway
+5064324,"Cooma Public School - Buildings B00D, B00F, B00H and B00I",Built,,1,5,1.469,Ngarigu,Cooma,Commissioner Street Cooma 2630,Cooma-Monaro,,Commissioner Street
+5064326,Jerangle Public School - Landscape,Built,,1,5,0.8114,Ngarigu,Jerangle,2892 Jerangle Road Jerangle 2630,Cooma-Monaro,2892,Jerangle Road
+5064327,Michelago Public School - Buildings B00A and B00B,Built,,1,5,0.8094,Ngarigu,Michelago,20 Ryrie Street Michelago 2620,Cooma-Monaro,20,Ryrie Street
+5064328,Nimmitabel Public School - Buildings B00A-B00C,Built,,1,5,2.1603,Ngarigu,Nimmitabel,Wolfe Street Nimmitabel 2631,Cooma-Monaro,,Wolfe Street
+5064335,Numeralla Public School - Building B00A and Residence,Built,,1,5,4.0135,Ngarigu,Numeralla,7-9 Umeralla Street Numeralla 2630,Cooma-Monaro,7-Sep,Umeralla Street
+5064336,Cooma Public School,Complex / Group,Education,1,6,1.469,Ngarigu,Cooma,Commissioner Street Cooma 2630,Cooma-Monaro,,Commissioner Street
+5064337,"Cootamundra Public School - Buildings B00A, B00B, B00B1 and B00B2",Built,,1,5,1.57072,Wiradjuri,Cootamundra,Cooper Street Cootamundra 2590,Cootamundra,,Cooper Street
+5064338,"Stockinbingal Public School - Buildings B00A, B00B and B00D",Built,,1,5,0.85156,Wiradjuri,Stockinbingal,Dudauman Street Stockinbingal 2725,Cootamundra,,Dudauman Street
+5064339,"Wallendbeen Public School - Buildings B00A, B00B and B00E, Residence and Bell",Built,,1,5,1.699,Wiradjuri,Wallendbeen,7-15 King Street Wallendbeen 2588,Cootamundra,Jul-15,King Street
+5064340,Cootamundra Public School,Complex / Group,Education,1,6,1.57072,Wiradjuri,Cootamundra,Cooper Street Cootamundra 2590,Cootamundra,,Cooper Street
+5064341,Howlong Public School - Building B00F,Built,,1,5,0.6069,Wiradjuri,Howlong,121-135 Hawkins Street Howlong 2643,Corowa,121-135,Hawkins Street
+5064342,Ballimore Public School - Buildings B00A and B00B,Built,,1,5,2.071,Wiradjuri,Ballimore,22 Bomen Street Ballimore 2830,Dubbo,22,Bomen Street
+5064343,Dubbo Public School - Building B00K and Landscape,Built,,1,5,0.2039,Wiradjuri,Dubbo,179 Darling Street Dubbo 2830,Dubbo,179,Darling Street
+5064344,"Dubbo Public School - Buildings B00A, B00D and B00F",Built,,1,5,0.645,Wiradjuri,Dubbo,181 Darling Street Dubbo 2830,Dubbo,181,Darling Street
+5064345,Wambangalang Environmental Education Centre - Buildings B00A-B00D,Built,,1,5,3.844,Wiradjuri,Toongi,Obley Road Toongi 2830,Dubbo,,Obley Road
+5064346,"Wongarbon Public School - Buildings B00A, B00E, B00F and B00H and Memorial",Built,,1,5,0.2023,Wiradjuri,Wongarbon,28 Railway Street Wongarbon 2831,Dubbo,28,Railway Street
+5064347,Clarence Town Public School - Buildings B00A and B00B,Built,,1,5,0.4046,Gaddhang,Clarence Town,82 Queen Street Clarence Town 2321,Dungog,82,Queen Street
+5064348,Dungog Public School - Buildings B00B-B00D and B00K,Built,,1,5,1.42222,Gaddhang,Dungog,7-17 Chapman Street Dungog 2420,Dungog,Jul-17,Chapman Street
+5064350,Glen William Public School - Significant Trees,Built,,1,5,0.8115,Gaddhang,Glen William,717 Glen William Road Glen William 2321,Dungog,717,Glen William Road
+5064351,Gresford Public School - Buildings B00A and B00E,Built,,1,5,1.126,Gaddhang,Gresford,151 Durham Road Gresford 2311,Dungog,151,Durham Road
+5064352,Dungog Public School - North,Complex / Group,Education,1,6,0.324,Gaddhang,Dungog,7-17 Chapman Street Dungog 2420,Dungog,Jul-17,Chapman Street
+5064353,Dungog Public School - South,Complex / Group,Education,1,6,0.6819,Gaddhang,Dungog,7-17 Chapman Street Dungog 2420,Dungog,Jul-17,Chapman Street
+5064354,Dungog Public School - Playing Fields,Complex / Group,Education,1,6,0.47734,Gaddhang,Dungog,8 Chapman Street Dungog 2420,Dungog,8,Chapman Street
+5064355,Paterson Public School - Residence,Complex / Group,Education,1,6,0.8092,Gaddhang,Paterson,4 Church Street Paterson 2421,Dungog,4,Church Street
+5064356,Bodalla Public School - Former - Buildings B00G and B00H,Built,,1,5,2.02,Dhurga,Bodalla,7 Eurobodalla Road Bodalla 2545,Eurobodalla,7,Eurobodalla Road
+5064357,"Central Tilba Public School - Buildings B00A, B00B and B00D",Built,,1,5,0.8094,Dhurga,Central Tilba,89 Corkhill Drive Central Tilba 2546,Eurobodalla,89,Corkhill Drive
+5064358,Mogo Public School - Buildings B00A and B00B,Built,,1,5,0.8094,Dhurga,Mogo,64-72 Sydney Road Mogo 2536,Eurobodalla,64-72,Sydney Road
+5064359,Moruya Public School - Buildings B00A-B00C and B00J,Built,,1,5,2.387,Dhurga,Moruya,16 Evans Street Moruya 2537,Eurobodalla,16,Evans Street
+5064360,Narooma Public School - Building B00B,Built,,1,5,0.283,Dhurga,Narooma,19 Montague Street Narooma 2546,Eurobodalla,19,Montague Street
+5064361,Narooma Public School - Building B00F,Built,,1,5,1.336,Dhurga,Narooma,11 Montague Street Narooma 2546,Eurobodalla,11,Montague Street
+5064362,"Bossley Park Public School - Buildings B00E, B00K and B00L",Built,,1,5,2.023,Eora,Bossley Park,68 Bossley Road Bossley Park 2176,Fairfield,68,Bossley Road
+5064363,Cabramatta Public School - Building B00D,Built,,1,5,0.8083,Eora,Cabramatta,72 Cabramatta Road Cabramatta 2166,Fairfield,72,Cabramatta Road
+5064364,Fairfield Public School - Buildings B002 and B009,Built,,1,5,2.30262,Eora,Fairfield,68-82 Smart Street Fairfield 2165,Fairfield,68-82,Smart Street
+5064365,Canley Vale Tutorial Centre - Building B00S,Built,,1,5,0.454,Dharug,Canley Vale,94 Canley Vale Road Canley Vale 2166,Fairfield,94,Canley Vale Road
+5066541,Fairvale High School - Building B00G,Built,,0,6,5.392,Eora,Fairfield West,1 Thorney Road Fairfield West 2165,Fairfield,1,Thorney Road
+5064366,"Tooraweenah Public School - Buildings B00A, B00C, B00D, B00H and B00J",Built,,1,5,0.4047,Wiradjuri,Tooraweenah,410 John Renshaw Parkway Tooraweenah 2831,Gilgandra,410,John Renshaw Parkway
+5064367,Deepwater Public School - Building B00K,Built,,1,5,0.8644,Gumbainggar,Deepwater,15-25 Young Street Deepwater 2371,Glen Innes Severn,15-25,Young Street
+5064369,"Glen Innes Public School - Buildings B00A, B00B, B00G-B00J",Built,,1,5,1.416,Gumbainggar,Glen Innes,170 Church Street Glen Innes 2370,Glen Innes Severn,170,Church Street
+5064370,Glen Innes Public School - Building B00D,Built,,1,5,1.416,Gumbainggar,Glen Innes,170 Church Street Glen Innes 2370,Glen Innes Severn,170,Church Street
+5064371,Glen Innes Public School - Building B00C,Built,,1,5,0.3693,Gumbainggar,Glen Innes,170 Church Street Glen Innes 2370,Glen Innes Severn,170,Church Street
+5064372,Glen Innes West Public School - Building B00A,Built,,1,5,1.3706,Gumbainggar,Glen Innes,33 Coronation Avenue Glen Innes 2370,Glen Innes Severn,33,Coronation Avenue
+5064373,"Glen Innes High School - Buildings B00A-B00F, Landscape and War Memorial",Built,,1,5,1.881,Gumbainggar,Glen Innes,21 Edward Street Glen Innes 2370,Glen Innes Severn,21,Edward Street
+5064374,Barrington Public School - Building B00A,Built,,1,5,0.8096,Birpai,Barrington,Kenmore Street Barrington 2422,Gloucester,,Kenmore Street
+5064375,Gloucester Public School - Building B00B,Built,,1,5,1.671,Birpai,Gloucester,Elliot Street Gloucester 2422,Gloucester,,Elliot Street
+5064376,Woodport Public School - Buildings B00C and B00E,Built,,1,5,1.482,Guringai,Erina,144 The Entrance Road Erina 2250,Gosford,144,The Entrance Road
+5064377,Erina Heights Public School - Building B00C,Built,,1,5,2.043,Guringai,Erina Heights,2 Serpentine Road Erina Heights 2260,Gosford,2,Serpentine Road
+5064378,Girrakool School - Curtilage,Built,,1,5,,Guringai,Kariong,3 Central Coast Highway Kariong 2250,Gosford,3,Central Coast Highway
+5064379,Peats Ridge Public School - Buildings B00C-B00F,Built,,1,5,1.19,Guringai,Peats Ridge,1231 Peats Ridge Road Peats Ridge 2250,Gosford,1231,Peats Ridge Road
+5064380,Somersby Public School - Buildings B00A and B00B and Grounds,Built,,1,5,2.764,Guringai,Somersby,840 Wisemans Ferry Road Somersby 2250,Gosford,840,Wisemans Ferry Road
+5064381,Kariong Mountains High School,Complex / Group,Education,3,6,3.854,Darkinjung,Kariong,10 Festival Drive Kariong 2250,Gosford,10,Festival Drive
+5064382,South Goulburn Public School - Building B00C,Built,,1,5,0.4047,Gandangara,Goulburn,2 Addison Street Goulburn 2580,Goulburn Mulwaree,2,Addison Street
+5064383,Goulburn Public School - Building B00A,Built,,1,5,2.318,Gandangara,Goulburn,196 Bourke Street Goulburn 2580,Goulburn Mulwaree,196,Bourke Street
+5064384,Goulburn High School - Building B00M,Built,,1,5,3.035,Birpai,Goulburn,132 Goldsmith Street Goulburn 2580,Goulburn Mulwaree,132,Goldsmith Street
+5064385,Goulburn North Public School - Building B00D,Built,,1,5,2.263,Gandangara,Goulburn,1A Union Street Goulburn 2580,Goulburn Mulwaree,1A,Union Street
+5064386,Marulan Public School - Building B00D,Built,,1,5,0.3593,Gandangara,Marulan,61 George Street Marulan 2579,Goulburn Mulwaree,61,George Street
+5064387,Tallong Public School - Building B00A,Built,,1,5,0.8094,Gandangara,Tallong,80 Bumballa Street Tallong 2579,Goulburn Mulwaree,80,Bumballa Street
+5064388,Tirranna Public School - Building B00A,Built,,1,5,0.8094,Gandangara,Tirrannaville,4986 Braidwood Road Tirrannaville 2580,Goulburn Mulwaree,4986,Braidwood Road
+5064389,South Goulburn Public School,Complex / Group,Education,1,6,1.76809,Gandangara,Goulburn,2 Addison Street Goulburn 2580,Goulburn Mulwaree,2,Addison Street
+5064390,Goulburn Public School,Complex / Group,Education,1,6,2.318,Gandangara,Goulburn,196 Bourke Street Goulburn 2580,Goulburn Mulwaree,196,Bourke Street
+5064391,Goulburn High School,Complex / Group,Education,1,6,3.035,Gandangara,Goulburn,132 Goldsmith Street Goulburn 2580,Goulburn Mulwaree,132,Goldsmith Street
+5064392,Goulburn North Public School,Complex / Group,Education,1,6,2.263,Gandangara,Goulburn,1A Union Street Goulburn 2580,Goulburn Mulwaree,1A,Union Street
+5064393,Stroud Public School - Building B00B and Residence,Built,,1,5,2.9369,Birpai,Stroud,13-19 Erin Street Stroud 2425,Great Lakes,13-19,Erin Street
+5064394,Nabiac Public School,Complex / Group,Education,1,6,1.18944,Birpai,Nabiac,Clarkson Street Nabiac 2312,Great Lakes,,Clarkson Street
+5064395,Stroud Public School,Complex / Group,Education,1,6,0.6778,Birpai,Stroud,21 Erin Street Stroud 2425,Great Lakes,21,Erin Street
+5066091,Nabiac Public School - Buildings B00A and B00B,Built,,1,5,0.8094,Birpai,Nabiac,Clarkson Street Nabiac 2312,Great Lakes,,Clarkson Street
+5066476,Booral Public School - Buildings B00A and B00D,Built,,1,5,0.1012,Birpai,Booral,2300 The Bucketts Way Booral 2425,Great Lakes,2300,The Bucketts Way
+5066477,Stroud Road Public School - Buildings B00A and B00B,Built,,1,5,0.8094,Birpai,Stroud Road,733 The Bucketts Way Stroud Road 2415,Great Lakes,733,The Bucketts Way
+5066479,Bungwahl Public School - Building B00A,Built,,1,5,1.6355,Birpai,Bungwahl,56 Seal Rocks Road Bungwahl 2423,Great Lakes,56,Seal Rocks Road
+5064396,Bobin Public School - Building B00A,Built,,1,5,2.2701,Birpai,Bobin,2512 Bulga Road Bobin 2429,Greater Taree,2512,Bulga Road
+5064398,Coopernook Public School - Buildings B00A-B00D,Built,,1,5,3.1764,Birpai,Coopernook,Macquarie Street Coopernook 2426,Greater Taree,,Macquarie Street
+5064399,Coopernook Public School - Building B00H and B00I,Built,,1,5,3.1764,Birpai,Coopernook,Macquarie Street Coopernook 2426,Greater Taree,,Macquarie Street
+5064400,Cundletown Public School - Building B00B,Built,,1,5,1.69953,Birpai,Cundletown,High Street Cundletown 2430,Greater Taree,,High Street
+5064401,Harrington Public School - Significant Trees,Landscape,,1,5,0.8094,Birpai,Harrington,37 High Street Harrington 2427,Greater Taree,37,High Street
+5064402,Krambach Public School - Building B00B,Built,,1,5,0.8094,Birpai,Krambach,The Bucketts Way Krambach 2429,Greater Taree,,The Bucketts Way
+5064403,Taree High School - Building B00H,Built,,1,5,2.51944,Birpai,Taree,8 Albert Street Taree 2430,Greater Taree,8,Albert Street
+5064404,Taree High School - Building B00A,Built,,1,5,2.51944,Birpai,Taree,8 Albert Street Taree 2430,Greater Taree,8,Albert Street
+5064405,Taree Public School - Building B00B,Built,,1,5,1.082,Birpai,Taree,10 Albert Street Taree 2430,Greater Taree,10,Albert Street
+5064406,Taree Public School - Building B00A,Built,,1,5,1.082,Birpai,Taree,10 Albert Street Taree 2430,Greater Taree,10,Albert Street
+5064407,Tinonee Public School - Building B00I,Built,,1,5,0.8094,Birpai,Tinonee,Hutchinson Street Tinonee 2430,Greater Taree,,Hutchinson Street
+5064408,Tinonee Public School - Building B00B,Built,,1,5,0.8094,Birpai,Tinonee,Hutchinson Street Tinonee 2430,Greater Taree,,Hutchinson Street
+5064409,"Wingham Brush Public School - Buildings B00A-B00E, B00G, B00H and B00K",Built,,1,5,2.5984,Birpai,Wingham,4 Isabella Street Wingham 2429,Greater Taree,4,Isabella Street
+5064411,Taree High School,Complex / Group,Education,1,6,0.3793,Birpai,Taree,8 Albert Street Taree 2430,Greater Taree,8,Albert Street
+5064413,Taree Public School,Complex / Group,Education,1,6,1.082,Birpai,Taree,10 Albert Street Taree 2430,Greater Taree,10,Albert Street
+5064414,Tinonee Public School,Complex / Group,Education,1,6,0.44,Birpai,Tinonee,Hutchinson Street Tinonee 2430,Greater Taree,,Hutchinson Street
+5064415,Wingham Brush Public School,Complex / Group,Education,1,6,2.5984,Birpai,Wingham,4 Isabella Street Wingham 2429,Greater Taree,4,Isabella Street
+5064416,Beelbangera Public School - Buildings B00A and B00B,Built,,1,5,3.068,Wiradjuri,Beelbangera,505 Rankins Springs Road Beelbangera 2680,Griffith,505,Rankins Springs Road
+5064417,Griffith High School - Building B00A,Built,,1,5,8.388,Wiradjuri,Griffith,88 Coolah Street Griffith 2680,Griffith,88,Coolah Street
+5064418,Ben Lomond Public School - Building B00A and B00E and Significant Trees,Built,,1,5,0.804,Ngiyampaa,Ben Lomond,Inn Road Ben Lomond 2365,Guyra,,Inn Road
+5064419,Black Mountain Public School - Buildings B00A and B00F,Built,,1,5,0.8094,Gamilaroi,Black Mountain,815 Black Mountains Road Black Mountain 2365,Guyra,815,Black Mountains Road
+5064420,"Tingha Public School - Buildings B00A-B00C, B00E, B00H, B00I, B00K and Residence",Built,,1,5,2.691,Gamilaroi,Tingha,52-60 Ruby Street Tingha 2369,Guyra,52-60,Ruby Street
+5065999,Warialda Public School - Buildings B00A-B00E,Built,,1,5,2.27563,Gamilaroi,Warialda,27-35 Hope Street Warialda 2402,Gwydir,27-35,Hope Street
+5064421,Jugiong Public School - Buildings B00A and B00E,Built,,1,5,1.089,Ngunawal,Jugiong,Stapylton Street Jugiong 2726,Harden,,Stapylton Street
+5064422,"Murrumburrah Public School - Buildings B00A, B00B and B00D",Built,,1,5,4.6608,Ngunawal,Murrumburrah,Albury Street Murrumburrah 2587,Harden,,Albury Street
+5064423,Wombat Public School - Building B00C and Well,Built,,1,5,0.3616,Ngunawal,Wombat,46 Rose Street Wombat 2587,Harden,46,Rose Street
+5064424,Kurrajong North Public School - Building B00A,Built,,1,5,1.2242,Dharug,Kurrajong Heights,1 Stone Terrace Kurrajong Heights 2758,Hawkesbury,1,Stone Terrace
+5064425,Pitt Town Public School - Buildings B00A and B00D,Built,,1,5,1.616,Dharug,Pitt Town,17 Buckingham Street Pitt Town 2756,Hawkesbury,17,Buckingham Street
+5064427,Richmond Public School - Buildings B00A and B00D and Period Gates,Built,,1,5,1.037,Dharug,Richmond,115 Windsor Street Richmond 2753,Hawkesbury,115,Windsor Street
+5064428,"Windsor Public School - Buildings B00A, B00B and B00D-B00G",Built,,1,5,1.0234,Dharug,Windsor,2 Dight Street Windsor 2756,Hawkesbury,2,Dight Street
+5064429,Longneck Lagoon Environmental Education Centre,Landscape,,3,6,,Dharug,Scheyville,113 Scheyville Road Scheyville 2756,Hawkesbury,113,Scheyville Road
+5066542,Richmond High School - Building B008,Built,,0,6,10.0071,Eora,Richmond,140 Lennox Street Richmond 2753,Hawkesbury,140,Lennox Street
+5064430,Parramatta West Public School - Building B00F,Built,,1,5,1.4061,Eora,Parramatta,Railway Street Parramatta 2150,Holroyd,,Railway Street
+5064431,Ringrose Public School - Significant Trees,Built,,1,5,3.144,Eora,Greystanes,18-36 Ringrose Avenue Greystanes 2145,Holroyd,18-36,Ringrose Avenue
+5064432,Guildford Public School - Building B00E,Built,,1,5,2.35124,Eora,Guildford,1A Apia Street Guildford 2161,Holroyd,1A,Apia Street
+5064434,"Merrylands Public School - Buildings B00A, B00C, B00D, B00G, B00I and B00J",Built,,1,5,1.66609,Eora,Merrylands,68 Fowler Road Merrylands 2160,Holroyd,68,Fowler Road
+5064435,Merrylands East Public School - Building B00A,Built,,1,5,0.836,Eora,Merrylands,7 Myee Street Merrylands 2160,Holroyd,7,Myee Street
+5064436,"Westmead Public School - Buildings B00A, B00F and B00I",Built,,1,5,2.821,Eora,Westmead,150 Hawkesbury Road Westmead 2145,Holroyd,150,Hawkesbury Road
+5064437,Arcadia Public School - Building B00A,Built,,1,5,2.3199,Guringai,Arcadia,140 Arcadia Road Arcadia 2159,Hornsby,140,Arcadia Road
+5064438,Beecroft Public School - Building B00A,Built,,1,5,1.83792,Guringai,Beecroft,90-96 Beecroft Road Beecroft 2119,Hornsby,90-96,Beecroft Road
+5064439,"Brooklyn Public School - Building B00A,  Landscape and Significant Trees",Built,,1,5,1.37379,Guringai,Brooklyn,106 Brooklyn Road Brooklyn 2083,Hornsby,106,Brooklyn Road
+5064440,Epping West Public School - Building B00A,Built,,1,5,2.9666,Guringai,Epping,96-104 Carlingford Road Epping,Hornsby,96-104,Carlingford Road
+5064442,Epping Public School - Building B00A,Built,,1,5,1.8962,Guringai,Epping,27-33 Pembroke Street Epping 2121,Hornsby,27-33,Pembroke Street
+5064443,Galston Public School - Buildings B00A and B00J and Grounds,Built,,1,5,1.881,Guringai,Galston,45B Arcadia Road Galston 2159,Hornsby,45B,Arcadia Road
+5064444,Galston High School - Building B00A and Item,Built,,1,5,10.48,Guringai,Galston,403 Galston Road Galston 2159,Hornsby,403,Galston Road
+5064445,"Hornsby Girls High School - Buildings B00A, B00D, B00E and Period Fence",Built,,1,5,2.36299,Guringai,Hornsby,12 Edgeworth David Avenue Hornsby 2077,Hornsby,12,Edgeworth David Avenue
+5064446,Mount Colah Public School - Grounds,Landscape,,1,5,3.084,Guringai,Mount Colah,19-21 Telopea Stree Mount Colah 2079,Hornsby,19-21,Telopea Stree
+5064447,Mount Kuring-gai Public School - Grounds,Landscape,,1,5,0.92669,Guringai,Mount Kuring-Gai,5-9 King Street Mount Kuring-Gai 2080,Hornsby,5-Sep,King Street
+5064449,Pennant Hills High School - Grounds,Landscape,,1,5,10.2822,Guringai,Pennant Hills,90 Boundary Road Pennant Hills 2120,Hornsby,90,Boundary Road
+5064450,Thornleigh West Public School - Grounds,Landscape,,1,5,2.862,Guringai,Thornleigh,18 Giblett Avenue Thornleigh 2120,Hornsby,18,Giblett Avenue
+5064451,Waitara Public School - Building B00A and Grounds,Landscape,,1,5,1.9558,Guringai,Wahroonga,48-58 Myra Street Wahroonga 2076,Hornsby,48-58,Myra Street
+5064452,Cheltenham Girls High School,Complex / Group,Education,1,6,5.7238,Guringai,Cheltenham,161-175 Beecroft Road Cheltenham 2119,Hornsby,161-175,Beecroft Road
+5064453,Beecroft Public School,Complex / Group,Education,1,6,1.83792,Guringai,Beecroft,90-96 Beecroft Road Beecroft 2119,Hornsby,90-96,Beecroft Road
+5064454,Waitara Public School,Complex / Group,Education,1,6,1.9558,Guringai,Wahroonga,48-58 Myra Street Wahroonga 2076,Hornsby,48-58,Myra Street
+5064455,Epping Public School,Complex / Group,Education,1,6,1.6404,Guringai,Epping,27-33 Pembroke Street Epping 2121,Hornsby,27-33,Pembroke Street
+5064456,Hunters Hill Public School - Building B00A,Built,,1,5,1.0176,Eora,Hunters Hill,17 Alexandra Street Hunters Hill 2110,Hunters Hill,17,Alexandra Street
+5064457,Hunters Hill Public School - Period Walls,Built,,1,5,,Eora,Hunters Hill,17 Alexandra Street Hunters Hill 2110,Hunters Hill,17,Alexandra Street
+5064458,Hunters Hill Public School - Building B00G,Built,,1,5,0.1366,Eora,Hunters Hill,17 Alexandra Street Hunters Hill 2110,Hunters Hill,17,Alexandra Street
+5064459,Hunters Hill Public School,Complex / Group,Education,1,6,1.0176,Eora,Hunters Hill,17 Alexandra Street Hunters Hill 2110,Hunters Hill,17,Alexandra Street
+5064460,Hunters Hill High School,Complex / Group,Education,1,6,6.569,Eora,Hunters Hill,Reiby Road Hunters Hill 2110,Hunters Hill,,Reiby Road
+5064461,Hunters Hill Public School,Complex / Group,Education,1,6,1.0176,Eora,Hunters Hill,17 Alexandra Street Hunters Hill 2110,Hunters Hill,17,Alexandra Street
+5064462,Hurstville Public School - Buildings B00E-B00I,Built,,1,5,2.458,Eora,Hurstville,80 Forest Road Hurstville 2220,Hurstville,80,Forest Road
+5064463,Peakhurst Public School - Building B00A and Significant Trees,Built,,1,5,1.26,Eora,Peakhurst,65A Bonds Road Peakhurst 2210,Hurstville,65A,Bonds Road
+5064464,Penshurst Public School - Building B00A,Built,,1,5,0.3492,Eora,Penshurst,510 Forest Road Penshurst 2222,Hurstville,510,Forest Road
+5064465,Georges River College - Hurstville Boys Campus - Buildings B00A and B00E,Built,,1,5,3.875,Eora,Hurstville,Kenwyn Street Hurstville 2220,Hurstville,,Kenwyn Street
+5064466,Georges River College - Penshurst Girls Campus - Buildings B00A-B00E,Built,,1,5,1.4676,Eora,Penshurst,51 Penshurst Street Penshurst 2222,Hurstville,51,Penshurst Street
+5064467,Gilgai School - Buildings B00A and B00B,Built,,1,5,0.8094,Gamilaroi,Gilgai,28 Schwenkes Lane Gilgai 2360,Inverell,28,Schwenkes Lane
+5064468,Inverell High School - Building B00A,Built,,1,5,2.211,Gamilaroi,Inverell,70 Brae Street Inverell 2360,Inverell,70,Brae Street
+5064469,Inverell Public School - Buildings B00B and B00H,Built,,1,5,0.8094,Gamilaroi,Inverell,22-30 Wood Street Inverell 2360,Inverell,22-30,Wood Street
+5064470,Inverell Public School - Building B00I,Built,,1,5,0.8094,Gamilaroi,Inverell,22-30 Wood Street Inverell 2360,Inverell,22-30,Wood Street
+5064471,Ashford Central School,Complex / Group,Education,1,6,0.4047,Gamilaroi,Ashford,51 Martyn Street Ashford 2361,Inverell,51,Martyn Street
+5064472,Jerilderie Public School - Buildings B00A and B00B,Built,,1,5,1.38358,Wiradjuri,Jerilderie,27-33 Bolton Street Jerilderie 2716,Jerilderie,27-33,Bolton Street
+5064473,Junee Public School,Complex / Group,Education,1,6,2.46977,Wiradjuri,Junee,116 Lorne Street Junee 2663,Junee,116,Lorne Street
+5064474,East Kempsey Public School - Buildings B00E and B00G,Built,,1,5,1.2028,Thungguti,East Kempsey,1 Innes Street East Kempsey 2440,Kempsey,1,Innes Street
+5064475,"Frederickton Public School - Buildings B001, B003 and B005",Built,,1,5,1.6673,Thungguti,Frederickton,109 Great North Road Frederickton 2440,Kempsey,109,Great North Road
+5064476,"Gladstone Public School - Buildings B00A, B00B and B00E and Bell",Built,,1,5,0.33134,Thungguti,Gladstone,13 Kinchela Street Gladstone 2440,Kempsey,13,Kinchela Street
+5064477,Millbank Public  School - Building B00A and Memorial Gates,Built,,1,5,1.578,Thungguti,Millbank,506 Hickeys Creek Road Millbank 2440,Kempsey,506,Hickeys Creek Road
+5064478,Millbank Public  School - Building B00E,Built,,1,5,1.578,Thungguti,Millbank,506 Hickeys Creek Road Millbank 2440,Kempsey,506,Hickeys Creek Road
+5064479,Kempsey High School - Buildings B00B and B00G,Built,,1,5,5.417,Thungguti,West Kempsey,Broughton Street West Kempsey 2440,Kempsey,,Broughton Street
+5064480,Willawarrin Public School - Buildings B00B and B00C,Built,,1,5,1.366,Thungguti,Willawarrin,85-91 Armidale Road Willawarrin 2440,Kempsey,85-91,Armidale Road
+5064481,Bellbrook Public School,Complex / Group,Education,1,6,0.597,Thungguti,Bellbrook,32 Main Street Bellbrook 2440,Kempsey,32,Main Street
+5066000,Gladstone Public School,Complex / Group,Education,1,6,0.33134,Thungguti,Gladstone,13 Kinchela Street Gladstone 2440,Kempsey,13,Kinchela Street
+5064482,Jamberoo Public School - Buildings B00B and B00E,Built,,1,5,0.8094,Tharawal,Jamberoo,55 Churchill Street Jamberoo 2533,Kiama,55,Churchill Street
+5064483,"Blakehurst Public School - Buildings B00A, B00B and B00D",Built,,1,5,1.4613,Eora,Blakehurst,Princes Highway Blakehurst 2221,Kogarah,,Princes Highway
+5064484,Hurstville South Public School - Buildings B00A and B00D,Built,,1,5,1.13446,Eora,Hurstville,Maher Street Hurstville 2220,Kogarah,,Maher Street
+5064486,Woniora Road School - Building B00A,Built,,1,5,0.3463,Eora,Hurstville,83-85 Woniora Road Hurstville 2220,Kogarah,83-85,Woniora Road
+5064487,Kogarah High School - Building B006,Built,,1,5,0.6576,Eora,Kogarah,28 Regent Street Kogarah 2217,Kogarah,28,Regent Street
+5064488,St George Girls High School - Building B00A and Period Fence,Built,,1,5,2.836,Eora,Kogarah,Victoria Street Kogarah 2217,Kogarah,,Victoria Street
+5064489,Mortdale Public School - Buildings B00E and B00F,Built,,1,5,3.94998,Eora,Mortdale,1-21 Coleborne Avenue Mortdale 2223,Kogarah,Jan-21,Coleborne Avenue
+5064490,Sans Souci Public School - Building B00A,Built,,1,5,2.1518,Eora,Sans Souci,413-415 Rocky Point Road Sans Souci 2219,Kogarah,413-415,Rocky Point Road
+5064491,Hurstville Grove Public School,Complex / Group,Education,1,6,0.46729,Eora,Penshurst,Lansdowne Street Penshurst 2222,Kogarah,,Lansdowne Street
+5064492,Lindfield Learning Village - Buildings B001-B005 and Landscape,Built,,1,5,3.6,Dharug,Lindfield,Eton Road Lindfield 2070,Ku-Ring-Gai,,Eton Road
+5064493,Wahroonga Public School,Complex / Group,Education,1,6,4.671,Dharug,Wahroonga,71 Burns Road Wahroonga 2076,Ku-Ring-Gai,71,Burns Road
+5064494,Roseville Public School,Complex / Group,Education,1,6,1.45572,Dharug,Roseville,19A Archbold Road Roseville 2069,Ku-Ring-Gai,19A,Archbold Road
+5066496,Ku-ring-gai High School - Building B00H,Built,,0,6,7.9958,Guringai,North Turramurra,403 Bobbin Head Road North Turramurra 2074,Ku-Ring-Gai,403,Bobbin Head Road
+5064495,Kyogle Public School - Building B00A and Significant Trees,Built,,1,5,0.8094,Bundjalung,Kyogle,Summerland Way Kyogle 2474,Kyogle,,Summerland Way
+5064496,The Risk Public School - Buildings B00A and B00F,Built,,1,5,0.8094,Bundjalung,The Risk,122 Gradys Creek Road The Risk 2474,Kyogle,122,Gradys Creek Road
+5064497,Barkers Vale Public School - Buildings B00A and B00C-B00E,Built,,1,5,7.632,Bundjalung,Wadeville,4501-4504 Kyogle Road Wadeville 2474,Kyogle,4501-4504,Kyogle Road
+5064498,"Woodenbong Central School - Buildings B00D-B00F, B00J and B00K and Memorial Gates",Built,,1,5,2.1474,Bundjalung,Woodenbong,42 Lindsay Street Woodenbong 2476,Kyogle,42,Lindsay Street
+5064502,Dudley Public School - Building B00C,Built,,1,5,0.8094,Awabakal,Dudley,124 Ocean Street Dudley 2290,Lake Macquarie,124,Ocean Street
+5064503,Edgeworth Public School - Building B00H,Built,,1,5,0.7171,Awabakal,Edgeworth,7 Minmi Road Edgeworth 2285,Lake Macquarie,7,Minmi Road
+5064504,West Wallsend High School - Landscape,Built,,1,5,0.7347,Awabakal,West Wallsend,20 Appletree Road West Wallsend 2286,Lake Macquarie,20,Appletree Road
+5064505,Morisset High School - Buildings B00P and B00R,Built,,1,5,7.74,Awabakal,Morisset,133 Bridge Street Morisset 2264,Lake Macquarie,133,Bridge Street
+5064506,Teralba Public School - Building B00A and B00D,Built,,1,5,0.8097,Awabakal,Teralba,57A York Street Teralba 2284,Lake Macquarie,57A,York Street
+5064507,"West Wallsend Public School - Buildings B00A, B00B, B00E and B00F",Built,,1,5,0.92596,Awabakal,West Wallsend,49A Wallace Street West Wallsend 2286,Lake Macquarie,49A,Wallace Street
+5064508,Belmont North Public School - Archaeology,Archaeological-Terrestrial,,1,5,1.06487,Awabakal,Belmont North,Nikkin Street Belmont North 2280,Lake Macquarie,,Nikkin Street
+5064510,West Wallsend High School,Complex / Group,Education,1,6,0.0738,Awabakal,West Wallsend,20 Appletree Road West Wallsend 2286,Lake Macquarie,20,Appletree Road
+5064511,West Wallsend Public School,Complex / Group,Education,1,6,1.21539,Awabakal,West Wallsend,49A Wallace Street West Wallsend 2286,Lake Macquarie,49A,Wallace Street
+5066535,Teralba Public School,Complex / Group,Education,1,6,1.2151,Awabakal,Teralba,57A York Street Teralba 2284,Lake Macquarie,57A,York Street
+5064512,Greenwich Public School - Buildings B00H and Movable Item,Built,,1,5,0.63104,Dharug,Greenwich,70A Greenwich Road Greenwich 2065,Lane Cove,70A,Greenwich Road
+5064513,Lane Cove Public School - Buildings B001 and B006,Built,,1,5,1.0224,Dharug,Lane Cove,145-153 Longueville Road Lane Cove 2066,Lane Cove,145-153,Longueville Road
+5064514,Leeton Public School - Residence,Built,,1,5,0.18404,Wiradjuri,Leeton,20 Church Street Leeton 2705,Leeton,20,Church Street
+5064515,Leeton High School - Building B00B,Built,,1,5,4.61,Wiradjuri,Leeton,1-19 Mallee Street Leeton 2705,Leeton,Jan-19,Mallee Street
+5064516,Leeton Public School - Building B00H,Built,,1,5,2.902,Wiradjuri,Leeton,Mallee Street Leeton 2705,Leeton,,Mallee Street
+5064517,Yanco Public School - Buildings B00A-B00D,Built,,1,5,1.11,Wiradjuri,Yanco,2-8 Cudgel Street Yanco 2703,Leeton,2-Aug,Cudgel Street
+5064518,"Yanco Agricultural High School - Buildings B00A, B00D, B00E, B00F, B00G, B00H, B00I, B00J, B00L, B00N, BR11, Movable Heritage and Grounds",Built,,3,5,16.1988,Wiradjuri,Yanco,259 Euroley Road Yanco 2703,Leeton,259,Euroley Road
+5064520,Annandale Public School - Period Gates,Built,,1,5,1.118,Eora,Annandale,25 Johnston Street Annandale 2038,Leichhardt,25,Johnston Street
+5064521,Annandale Public School - Buildings B00A and B00C,Built,,1,5,1.118,Eora,Annandale,25 Johnston Street Annandale 2038,Leichhardt,25,Johnston Street
+5064522,Annandale North Public School - Building B00C,Built,,1,5,0.52955,Eora,Annandale,196-212 Johnston Street Annandale 2038,Leichhardt,196-212,Johnston Street
+5064523,Balmain Public School - Buildings B00A-B00C and B00E,Built,,1,5,0.354,Eora,Balmain,1 Eaton Street Balmain 2041,Leichhardt,1,Eaton Street
+5064524,Nicholson Street Public School - Building B00A,Built,,1,5,0.436222,Eora,Balmain,21 Nicholson Street Balmain 2041,Leichhardt,21,Nicholson Street
+5064525,Birchgrove Public School - Building B00A and Significant Trees,Built,,1,5,0.7366,Eora,Birchgrove,76B Birchgrove Road Birchgrove 2041,Leichhardt,76B,Birchgrove Road
+5064526,"Leichhardt Public School - Buildings B00A-B00C, B00E and B00F",Built,,1,5,1.5613,Eora,Leichhardt,101-105 Norton Street Leichhardt 2040,Leichhardt,101-105,Norton Street
+5064527,Kegworth Public School - Buildings B00A and B00B,Built,,1,5,0.71015,Eora,Leichhardt,60 Tebbutt Street Leichhardt 2040,Leichhardt,60,Tebbutt Street
+5064528,Rozelle Public School - Buildings B00A-B00C,Built,,1,5,1.08013,Eora,Rozelle,663 Darling Street Rozelle 2039,Leichhardt,663,Darling Street
+5064529,Annandale Public School,Complex / Group,Education,1,6,1.118,Eora,Annandale,25 Johnston Street Annandale 2038,Leichhardt,25,Johnston Street
+5064530,Annandale North Public School,Complex / Group,Education,1,6,0.52955,Eora,Annandale,196-212 Johnston Street Annandale 2038,Leichhardt,196-212,Johnston Street
+5064531,Nicholson Street Public School,Complex / Group,Education,1,6,0.463322,Eora,Balmain,21 Nicholson Street Balmain 2041,Leichhardt,21,Nicholson Street
+5064532,Birchgrove Public School,Complex / Group,Education,1,6,0.7366,Eora,Birchgrove,76B Birchgrove Road Birchgrove 2041,Leichhardt,76B,Birchgrove Road
+5064533,Sydney Secondary College - Balmain,Complex / Group,Education,1,6,3.571,Eora,Rozelle,25-33 Terry Street Rozelle 2039,Leichhardt,25-33,Terry Street
+5064534,Balmain Public School,Complex / Group,Education,1,6,0.354,Eora,Balmain,1 Eaton Street Balmain 2041,Leichhardt,1,Eaton Street
+5064535,Rozelle Public School,Complex / Group,Education,1,6,1.47518,Eora,Rozelle,663 Darling Street Rozelle 2039,Leichhardt,663,Darling Street
+5064536,Leichhardt Public School,Complex / Group,Education,1,6,1.5613,Eora,Leichhardt,101-105 Norton Street Leichhardt 2040,Leichhardt,101-105,Norton Street
+5064537,Orange Grove Public School,Complex / Group,Education,1,6,0.0122,Eora,Lilyfield,2-8 Perry Street Lilyfield 2040,Leichhardt,2-Aug,Perry Street
+5067073,"Orange Grove Public School - Buildings B00A, B00B and B00D",Built,,0,6,1.153,Eora,Lilyfield,2-8 Perry Street Lilyfield 2040,Leichhardt,2-Aug,Perry Street
+5064538,"Blakebrook Public School - Buildings B00A, B00E and B00F and Grounds",Built,,1,5,1.276,Bundjalung,Blakebrook,417 Rosehill Road Blakebrook 2480,Lismore,417,Rosehill Road
+5064539,Dunoon Public School - Building B00A and Grounds,Built,,1,5,2.061,Bundjalung,Dunoon,65 James Street Dunoon 2480,Lismore,65,James Street
+5064540,"Modanville Public School - Buildings B00A, B00D and B00E and Significant Trees",Built,,1,5,1.7239,Bundjalung,Modanville,877 Dunoon Road Modanville 2480,Lismore,877,Dunoon Road
+5064541,The Rivers Secondary College - Richmond River High Campus - Building B00A and Significant Trees,Built,,1,5,0.9586,Bundjalung,North Lismore,85 Lake Street North Lismore 2480,Lismore,85,Lake Street
+5064543,Cullen Bullen Public School - Buildings B00A and B00D,Built,,1,5,0.8094,Wiradjuri,Cullen Bullen,15-23 Castlereagh Highway Cullen Bullen 2790,Lithgow,15-23,Castlereagh Highway
+5064544,"Lithgow Public School - Buildings B00A, B00B, B00D-B00F, B00I and B00J",Built,,1,5,1.964,Wiradjuri,Lithgow,163 Mort Street Lithgow 2790,Lithgow,163,Mort Street
+5064545,Meadow Flat Public School - Buildings B00A and B00C and Bell,Built,,1,5,1.222,Wiradjuri,Meadow Flat,9 Great Western Highway Meadow Flat 2795,Lithgow,9,Great Western Highway
+5064546,Cooerwull Public School - Archaeology,Archaeological-Terrestrial,,1,5,0.8094,Wiradjuri,Lithgow,319-321 Main Street Lithgow 2790,Lithgow,319-321,Main Street
+5064547,Meadow Flat Public School - Archaeology,Archaeological-Terrestrial,,1,5,1.222,Wiradjuri,Meadow Flat,9 Great Western Highway Meadow Flat 2795,Lithgow,9,Great Western Highway
+5064549,Capertee Public School,Complex / Group,Education,1,6,0.9443,Wiradjuri,Capertee,33-35 Castleregh Street Capertee 2846,Lithgow,33-35,Castleregh Street
+5064550,Lithgow Public School,Complex / Group,Education,1,6,1.964,Wiradjuri,Lithgow,163 Mort Street Lithgow 2790,Lithgow,163,Mort Street
+5064551,Portland Central School,Complex / Group,Education,1,6,2.2302,Wiradjuri,Portland,14 Vale Street Portland 2847,Lithgow,14,Vale Street
+5064552,Ashcroft High School - Memorial Gates,Built,,1,5,5.936,Dharug,Ashcroft,108 Maxwells Avenue Ashcroft 2168,Liverpool,108,Maxwells Avenue
+5064554,Bringelly Public School - Buildings B00E-B00H,Built,,1,5,4.22,Dharug,Bringelly,1205 The Northern Road Bringelly 2171,Liverpool,1205,The Northern Road
+5064555,"Chipping Norton Public School - Buildings B00A-B00D, B00G and B00J",Built,,1,5,2.7617,Dharug,Chipping Norton,4 Central Avenue Chipping Norton 2170,Liverpool,4,Central Avenue
+5064556,Mainsbridge School - Building B00D,Built,,1,5,0.7918,Dharug,Liverpool,118 Flowerdale Road Liverpool 2170,Liverpool,118,Flowerdale Road
+5064557,Luddenham Public School - Building B00C,Built,,1,5,0.721,Dharug,Luddenham,2158 The Northern Road Luddenham 2745,Liverpool,2158,The Northern Road
+5064558,Liverpool Public School - Buildings B00B-B00E and Archaeology,Built,,3,5,1.67757,Dharug,Liverpool,251 Bigge Street and Railway Street Liverpool 2170,Liverpool,251,Bigge Street and Railway Street
+5064559,Liverpool Public School,Complex / Group,Education,1,6,1.67757,Dharug,Liverpool,Railway Street Liverpool 2170,Liverpool,,Railway Street
+5064560,Quirindi High School - Building B00A,Built,,1,5,0.7245,Gamilaroi,Quirindi,113 Hill Street Quirindi 2343,Liverpool Plains,113,Hill Street
+5064561,Quirindi Public School - Building B00D,Built,,1,5,1.2,Gamilaroi,Quirindi,22 Munro Street Quirindi 2343,Liverpool Plains,22,Munro Street
+5064562,"Werris Creek Public School - Buildings B00B, B00E-B00G and B00J",Built,,1,5,0.8094,Gamilaroi,Werris Creek,68 Dewhurst Street Werris Creek 2341,Liverpool Plains,68,Dewhurst Street
+5064563,The Rock Central School,Complex / Group,Education,1,6,1.7148,Wiradjuri,The Rock,Ford Street The Rock 2655,Lockhart,,Ford Street
+5064564,Yerong Creek Public School,Complex / Group,Education,1,6,0.0457,Wiradjuri,Yerong Creek,23-29 Cole Street Yerong Creek 2642,Lockhart,23-29,Cole Street
+5064565,Lord Howe Island Central School,Landscape,,3,6,0.5805,,Lord Howe Island,Lagoon Road Lord Howe Island 2898,Lord Howe Island,,Lagoon Road
+5064566,Lord Howe Island Central School - Residences,Landscape,,3,6,0.2428,,Lord Howe Island,Lots 11 and 12 Douglas Terrace Lord Howe Island 2898,Lord Howe Island,Lots 11 and 12,Douglas Terrace
+5064567,"Maitland High School - Buildings B00A, B00B, B00L, B00P and B00W",Built,,1,5,0.1859,Wanaruah,East Maitland,30 High Street East Maitland 2323,Maitland,30,High Street
+5064568,Maitland East Public School - Building B00A,Built,,1,5,2.037,Wanaruah,East Maitland,28 William Street East Maitland 2323,Maitland,28,William Street
+5064569,"Largs Public School - Buildings B00A-B00C, B00E, B00G and Residence",Built,,1,5,1.14536,Eora,Largs,1-5 Hunter Street Largs 2320,Maitland,1-May,Hunter Street
+5064570,Maitland Public School - Buildings B00A-B00F,Built,,1,5,1.245813,Wanaruah,Maitland,70 Elgin Street Maitland 2320,Maitland,70,Elgin Street
+5064571,Morpeth Public School - Building B00A,Built,,1,5,0.8574,Wanaruah,Morpeth,46 High Street Morpeth 2321,Maitland,46,High Street
+5065568,Maitland Public School,Complex / Group,Education,1,6,0.9453,Wanaruah,Maitland,70 Elgin Street Maitland 2320,Maitland,70,Elgin Street
+5065569,Maitland East Public School,Complex / Group,Education,1,6,2.1388,Wanaruah,East Maitland,26 William Street East Maitland 2323,Maitland,26,William Street
+5065570,Nillo Infants School,Complex / Group,Education,1,6,0.27543,Wanaruah,Lorn,Belmore Road Lorn 2320,Maitland,,Belmore Road
+5065571,Morpeth Public School,Complex / Group,Education,1,6,0.8574,Wanaruah,Morpeth,46 High Street Morpeth 2321,Maitland,46,High Street
+5065572,"Manly West Public School - Buildings B00D, B00E and B00G and Significant Trees",Landscape,,1,5,2.155,Eora,Balgowlah,Griffiths Street Balgowlah 2093,Manly,,Griffiths Street
+5065573,Manly Village Public School - Building B00C,Built,,1,5,0.5826,Eora,Manly,Darley Road Manly 2095,Manly,,Darley Road
+5065574,Manly Village Public School - Building B00D,Built,,1,5,0.0785,Eora,Manly,12 Wentworth Street Manly 2095,Manly,12,Wentworth Street
+5065575,"Manly Village Public School - Buildings B00A, B00B and 1882 Parapet Monument",Built,,1,5,0.5826,Eora,Manly,Darley Road Manly 2095,Manly,,Darley Road
+5065576,Manly Village Public School,Complex / Group,Education,1,6,0.5826,Eora,Manly,Darley Road Manly 2095,Manly,,Darley Road
+5065577,Bridge Road School - Buildings B00A and B00G,Built,,1,5,0.3728,Eora,Camperdown,127 Parramatta Road Camperdown 2050,Marrickville,127,Parramatta Road
+5065580,Dulwich Hill High School - Building B00C,Built,,1,5,1.507,Eora,Dulwich Hill,1-9 Seaview Street Dulwich Hill 2203,Marrickville,1-Sep,Seaview Street
+5065581,Marrickville Public School - Buildings B00A-B00D and B00K,Built,,1,5,1.949,Eora,Marrickville,116 Chapel Street Marrickville 2204,Marrickville,116,Chapel Street
+5065582,"Marrickville West Public School - Buildings B00A, B00B and B00G",Built,,1,5,1.422,Eora,Marrickville,2A Beauchamp Street Marrickville 2204,Marrickville,2A,Beauchamp Street
+5065583,Ferncourt Public School - Building B00A,Built,,1,5,1.129,Eora,Marrickville,74 Premier Street Marrickville 2204,Marrickville,74,Premier Street
+5065584,"Australia Street Infants School - Buildings B00A, B00B, B00D and B00F",Built,,1,5,0.335,Eora,Newtown,229 Australia Street Newtown 2042,Marrickville,229,Australia Street
+5065586,"Camdenville Public School - Buildings B002, B003, B007 and B008",Built,,1,5,1.57368,Eora,Newtown,127-137 Wells Street Newtown 2042,Marrickville,127-137,Wells Street
+5065587,Fort Street High School - Buildings B00A and B00B,Built,,1,5,3.914,Eora,Petersham,620 Parramatta Road Petersham 2049,Marrickville,620,Parramatta Road
+5065588,Stanmore Public School - Buildings B00B and B00C,Built,,1,5,1.6699,Eora,Stanmore,96 Cambridge Street Stanmore 2048,Marrickville,96,Cambridge Street
+5065589,St Peters Public School - Buildings B00A and B00C,Built,,1,5,1.9329,Eora,Petersham,93A Church Street Petersham 2049,Marrickville,93A,Church Street
+5065590,Tempe High School and Tempe Public School - Buildings B00B and B00BS,Built,,1,5,3.578,Eora,Tempe,119 Unwins Bridge Road Tempe 2044,Marrickville,119,Unwins Bridge Road
+5065591,Bridge Road School,Complex / Group,Education,1,6,0.4657,Eora,Camperdown,2 Victory Lane Camperdown 2050,Marrickville,2,Victory Lane
+5065592,Australia Street Infants School,Complex / Group,Education,1,6,0.335,Eora,Newtown,229 Australia Street Newtown 2042,Marrickville,229,Australia Street
+5066038,Stanmore Public School,Complex / Group,Education,1,6,1.6699,Eora,Stanmore,96 Cambridge Street Stanmore 2048,Marrickville,96,Cambridge Street
+5067115,"NSW School of Languages - Buildings B0CC, B0DD and B0EE",Built,,1,5,,Eora,Petersham,West Street Petersham 2049,Marrickville,,West Street
+5065595,Goolma Public School - Buildings B00A-B00C,Built,,1,5,0.8094,Wiradjuri,Goolma,16 Gollan Road Goolma 2852,Mid-Western Regional,16,Gollan Road
+5065596,Red Hill Environmental Education Centre - Building B00A,Built,,1,5,,Wiradjuri,Gulgong,41 White Street Gulgong 2852,Mid-Western Regional,41,White Street
+5065597,Red Hill Environmental Education Centre - Building B00B,Built,,1,5,,Wiradjuri,Gulgong,41 White Street Gulgong 2852,Mid-Western Regional,41,White Street
+5065598,Ilford Public School - Building B00C,Built,,1,5,2.034,Wiradjuri,Ilford,6943 Castlereagh Highway Ilford 2850,Mid-Western Regional,6943,Castlereagh Highway
+5065599,Kandos High School - Building B00C,Built,,1,5,0.2024,Wiradjuri,Kandos,16-38 Fleming Street Kandos 2848,Mid-Western Regional,16-38,Fleming Street
+5065600,Mudgee High School - Building B00A,Built,,1,5,3.981,Wiradjuri,Mudgee,41 Douro Street Mudgee 2850,Mid-Western Regional,41,Douro Street
+5065601,Mudgee Public School - Buildings B002 and B011,Built,,1,5,2.944,Wiradjuri,Mudgee,44 Perry Street Mudgee 2850,Mid-Western Regional,44,Perry Street
+5065602,Mudgee Public School - Building B001,Built,,1,5,2.944,Wiradjuri,Mudgee,44 Perry Street Mudgee 2850,Mid-Western Regional,44,Perry Street
+5065603,Mudgee Public School - Building B00A,Built,,1,5,2.944,Wiradjuri,Mudgee,44 Perry Street Mudgee 2850,Mid-Western Regional,44,Perry Street
+5065605,Mudgee High School,Complex / Group,Education,1,6,4.05245,Wiradjuri,Mudgee,41 Douro Street Mudgee 2850,Mid-Western Regional,41,Douro Street
+5065606,Mudgee Public School,Complex / Group,Education,1,6,3.1464,Wiradjuri,Mudgee,44 Perry Street Mudgee 2850,Mid-Western Regional,44,Perry Street
+5065607,Gulgong Public School and High School,Complex / Group,Education,1,6,4.047,Wiradjuri,Gulgong,40-66 Belmore Street Gulgong 2852,Mid-Western Regional,40-66,Belmore Street
+5065608,Red Hill Environmental Education Centre,Complex / Group,Education,1,6,,Wiradjuri,Gulgong,41 White Street Gulgong 2852,Mid-Western Regional,41,White Street
+5065609,Rylstone Public School,Complex / Group,Education,1,6,1.1736,Wiradjuri,Rylstone,25 Mudgee Street Rylstone 2849,Mid-Western Regional,25,Mudgee Street
+5065610,Hargraves Public School,Complex / Group,Education,1,6,1.621,Wiradjuri,Hargraves,66 Merinda Street Hargraves 2850,Mid-Western Regional,66,Merinda Street
+5065611,Mosman Public School - Building B00B,Built,,1,5,1.218,Guringai,Mosman,2 Gouldsbury Street Mosman 2088,Mosman,2,Gouldsbury Street
+5065612,Mosman High School - Buildings B00A and B00D,Built,,1,5,1.43839,Guringai,Mosman,745 Military Road Mosman 2088,Mosman,745,Military Road
+5065613,Middle Harbour Public School - Building B00K,Built,,1,5,0.0954,Eora,Mosman,8 Hale Road Mosman 2088,Mosman,8,Hale Road
+5065614,Mosman High School,Complex / Group,Education,1,6,0.4137,Guringai,Mosman,745 Military Road Mosman 2088,Mosman,745,Military Road
+5065615,Muswellbrook High School - Building B00K,Built,,1,5,0.8091,Wanaruah,Muswellbrook,King Street Muswellbrook 2333,Muswellbrook,,King Street
+5065616,Muswellbrook High School - Buildings B00B and B00E,Built,,1,5,0.8091,Wanaruah,Muswellbrook,King Street Muswellbrook 2333,Muswellbrook,,King Street
+5065617,"Bowraville Central School - Buildings  B00A, B00B, B00G, B00I and B00L-B00P",Built,,1,5,1.76749,Gumbainggar,Bowraville,High Street Bowraville 2449,Nambucca,,High Street
+5065618,Bowraville Central School,Complex / Group,Education,1,6,0.7365,Gumbainggar,Bowraville,High Street Bowraville 2449,Nambucca,,High Street
+5065621,"Narrandera Public School - Buildings B00A, B00C, B00D, B00F, B00G and B00S",Built,,1,5,0.2148,Wiradjuri,Narrandera,85 Bolton Street Narrandera 2700,Narrandera,85,Bolton Street
+5065622,Adamstown Administrative Office - Buildings B00A-B00D,Built,,1,5,0.5506,Awabakal,Adamstown,201 Brunker Road Adamstown 2289,Newcastle,201,Brunker Road
+5065623,Beresfield Public School - Building B00B,Built,,1,5,1.15588,Awabakal,Beresfield,181-183 Anderson Drive Beresfield 2322,Newcastle,181-183,Anderson Drive
+5065624,"Hunter School of the Performing Arts - Buildings B00G, B00H, B00J and B00Q",Built,,1,5,6.071,Awabakal,Broadmeadow,115 Lambton Road Broadmeadow 2292,Newcastle,115,Lambton Road
+5065625,Carrington Public School - Buildings B00A and B00B,Built,,1,5,0.5564,Awabakal,Carrington,88 Young Street Carrington 2294,Newcastle,88,Young Street
+5065626,Newcastle High School - Cooks Hill Campus - Building B003,Built,,1,5,0.3246,Awabakal,Cooks Hill,102 Laman Street Cooks Hill 2300,Newcastle,102,Laman Street
+5065627,Hamilton Public School - Buildings B00A-B00D,Built,,1,5,0.5164,Awabakal,Hamilton,1A Dixon Street Hamilton 2303,Newcastle,1A,Dixon Street
+5065628,"Newcastle High School - Buildings B00A-B00E, B00G-B00I, B00L and B00P",Built,,1,5,4.6422,Awabakal,Newcastle West,25A National Park Street Newcastle West 2302,Newcastle,25A,National Park Street
+5065629,Islington Public School - Building B00B and Significant Trees,Built,,1,5,0.5741,Awabakal,Islington,17 Hubbard Street Islington 2296,Newcastle,17,Hubbard Street
+5065630,Lambton Public School - Buildings B00B and B00C,Built,,1,5,2,Awabakal,Lambton,18 Croudace Street Lambton 2299,Newcastle,18,Croudace Street
+5065631,"Mayfield East Public School - Buildings B00A, B00B, B00D and B00E",Built,,1,5,1.48809,Awabakal,Mayfield,34 Crebert Street Mayfield 2304,Newcastle,34,Crebert Street
+5065632,Mayfield West Public School - Buildings B00B and B00C,Built,,1,5,1.571,Awabakal,Mayfield West,7 Gregson Avenue Mayfield West 2304,Newcastle,7,Gregson Avenue
+5065633,Minmi Public School - Bell and Foundation Stones,Built,,1,5,1.54682,Awabakal,Minmi,56 Woodford Street Minmi 2287,Newcastle,56,Woodford Street
+5065634,New Lambton Public School - Buildings B00B and B00C,Built,,1,5,0.950345,Awabakal,New Lambton,66 Regent Street New Lambton 2305,Newcastle,66,Regent Street
+5065635,John Hunter Hospital School - Curtilage,Built,,1,5,,Awabakal,New Lambton,14 Lookout Road New Lambton 2305,Newcastle,14,Lookout Road
+5065636,Stockton Public School - Buildings B00A-B00C and B00H,Built,,1,5,1.8465,Awabakal,Stockton,1/10 Clyde Street Stockton 2295,Newcastle,1-Oct,Clyde Street
+5065637,Newcastle East Public School - Building B00A and Period Fence,Built,,1,5,0.71324,Awabakal,The Hill,48 Brown Street The Hill 2300,Newcastle,48,Brown Street
+5065638,The Junction Public School - Buildings B00H and B00I,Built,,1,5,2.70035,Awabakal,The Junction,16 Watkins Street The Junction 2291,Newcastle,16,Watkins Street
+5065639,Tighes Hill Public School - Buildings B00A-B00C,Built,,1,5,0.72821,Awabakal,Tighes Hill,31-33 Elizabeth Street Tighes Hill 2297,Newcastle,31-33,Elizabeth Street
+5065640,Wallsend Public School - Buildings B00A-B00C,Built,,1,5,0.8574,Awabakal,Wallsend,26 Martindale Street Wallsend 2287,Newcastle,26,Martindale Street
+5065641,Plattsburg Public School - Buildings B00B and B00H,Built,,1,5,0.8903,Awabakal,Wallsend,2 Ranclaud Street Wallsend 2287,Newcastle,2,Ranclaud Street
+5065642,"Callaghan College - Waratah Technology Campus - Buildings B00F, B00G, B00I, B00J and B00M",Built,,1,5,3.2927,Awabakal,Waratah,26 Turton Road Waratah 2298,Newcastle,26,Turton Road
+5065643,Newcastle High School - Cooks Hill Campus,Complex / Group,Education,1,6,0.3246,Awabakal,Cooks Hill,102 Laman Street Cooks Hill 2300,Newcastle,102,Laman Street
+5065644,Hamilton South Public School,Complex / Group,Education,1,6,1.6445,Awabakal,Merewether,96-98 Kenrick Street Merewether 2291,Newcastle,96-98,Kenrick Street
+5065645,Newcastle High School,Complex / Group,Education,1,6,2.02,Awabakal,Newcastle West,25A National Park Street Newcastle West 2302,Newcastle,25A,National Park Street
+5066498,Callaghan College - Jesmond Campus - Building B00O,Built,,0,6,11.11,Awabakal,Jesmond,24 Janet Street Jesmond 2299,Newcastle,24,Janet Street
+5065646,Cammeray Public School - Building B00A,Built,,1,5,1.154986,Eora,Cammeray,66 Palmer Street Cammeray 2062,North Sydney,66,Palmer Street
+5065647,North Sydney Girls High School - Building B00B,Built,,1,5,1.571082,Eora,Crows Nest,365 Pacific Highway Crows Nest 2065,North Sydney,365,Pacific Highway
+5065648,"North Sydney Boys High School - Buildings B00B, B00D and B00G",Built,,1,5,2.2193,Eora,North Sydney,127 Falcon Street North Sydney 2060,North Sydney,127,Falcon Street
+5065650,Neutral Bay Public School - Buildings B00A and B00B,Built,,1,5,0.69222,Eora,Neutral Bay,175 Ben Boyd Road Neutral Bay 2089,North Sydney,175,Ben Boyd Road
+5065652,"North Sydney Public School - Buildings B00A, B00D and B00F, Gates and Period Fence",Built,,1,5,1.9297,Eora,North Sydney,Pacific Highway North Sydney 2060,North Sydney,,Pacific Highway
+5065653,Cammeraygal High School - Building B00A,Built,,1,5,0.626,Eora,North Sydney,194 Pacific Highway North Sydney 2060,North Sydney,194,Pacific Highway
+5065654,Cammeray Public School,Complex / Group,Education,1,6,1.15557,Eora,Cammeray,66 Palmer Street Cammeray 2062,North Sydney,66,Palmer Street
+5065656,North Sydney Boys High School,Complex / Group,Education,1,6,0.1483,Eora,North Sydney,127 Falcon Street North Sydney 2060,North Sydney,127,Falcon Street
+5065657,North Sydney Girls High School,Complex / Group,Education,1,6,1.58025,Eora,Crows Nest,365 Pacific Highway Crows Nest 2065,North Sydney,365,Pacific Highway
+5065659,Oberon Public School - Building B00N,Built,,1,5,2.155,Wiradjuri,Oberon,11-19 Dart Street Oberon 2787,Oberon,Nov-19,Dart Street
+5065660,Orange East Public School - Buildings B004 and B005,Built,,1,5,1.56101,Wiradjuri,Orange,46-56 Nile Street Orange 2800,Orange,46-56,Nile Street
+5065661,Canobolas Public School - Building B00A,Built,,1,5,0.8094,Wiradjuri,Canobolas,386 Canobolas Road Canobolas 2800,Orange,386,Canobolas Road
+5065662,Orange Public School - Buildings B00C-B00E,Built,,1,5,1.758,Wiradjuri,Orange,78 Kite Street Orange 2800,Orange,78,Kite Street
+5065663,Spring Hill Public School - Building B00A,Built,,1,5,2.023,Wiradjuri,Spring Hill,2 Seaton Street Spring Hill 2800,Orange,2,Seaton Street
+5065664,Orange Public School,Complex / Group,Education,1,6,1.758,Wiradjuri,Orange,78 Kite Street Orange 2800,Orange,78,Kite Street
+5065665,Spring Hill Public School,Complex / Group,Education,1,6,2.023,Wiradjuri,Spring Hill,2 Seaton Street Spring Hill 2800,Orange,2,Seaton Street
+5065666,Braidwood Central School - Buildings B00A and B00G,Built,,3,5,0.61262,Walbanga,Braidwood,9 Wilson Street Braidwood 2622,Palerang,9,Wilson Street
+5065667,Bungendore Public School - Buildings B00A and B00G,Built,,1,5,0.8094,Ngunawal,Bungendore,59-65 Gibraltar Street Bungendore 2621,Palerang,59-65,Gibraltar Street
+5065668,Captains Flat Public School - Buildings B00A and B00B,Built,,1,5,0.4654,Ngarigu,Captains Flat,14 Montgomery Street Captains Flat 2621,Palerang,14,Montgomery Street
+5065669,Braidwood Central School,Complex / Group,Education,3,6,2.26162,Walbanga,Braidwood,9 Wilson Street Braidwood 2622,Palerang,9,Wilson Street
+5065670,"Carlingford Public School - Buildings B00A, B00B, B00D, B00E, B00G, B00H, B00L and B00O",Built,,1,5,3.4806,Dharug,Carlingford,5 Rickard Street Carlingford 2118,Parramatta,5,Rickard Street
+5065671,Granville Boys High School - Building B00A and Significant Trees,Built,,1,5,1.267,Dharug,Granville,10 Mary Street Granville 2142,Parramatta,10,Mary Street
+5065672,"Granville Public School - Buildings B00B, B00C and B00H",Built,,1,5,2.0167,Dharug,Granville,13 William Street Granville 2142,Parramatta,13,William Street
+5065673,Granville South Public School - Building B00A,Built,,1,5,1.9362,Dharug,Guildford,276 Woodville Road Guildford 2161,Parramatta,276,Woodville Road
+5065674,"Toongabbie Public School - Buildings B00A, B00D, B00E, B00F and B00J",Built,,1,5,2.4282,Dharug,Old Toongabbie,59 Fitzwilliam Road Old Toongabbie 2146,Parramatta,59,Fitzwilliam Road
+5065675,Arthur Phillip High School - Period Wall,Built,,1,5,0.1707,Dharug,Parramatta,80-100 Macquarie Street Parramatta 2150,Parramatta,80-100,Macquarie Street
+5065676,"Arthur Phillip High School - Building B00B, B00C and Archaeology",Built,,1,5,0.50018,Dharug,Parramatta,175 Macquarie Street Parramatta 2150,Parramatta,175,Macquarie Street
+5065677,"Bayanami Public School - Buildings B001-B004, Grounds and Archaeology",Built,,3,5,2.4629,Dharug,Parramatta,3 Marist Place Parramatta 2150,Parramatta,3,Marist Place
+5065678,"Macarthur Girls High School - Building B00A and B00E, Period Gates, Archaeology and Landscaping",Built,,1,5,5.0694,Dharug,Parramatta,9 Thomas Street Parramatta 2150,Parramatta,9,Thomas Street
+5065679,"Rosehill Public School - Buildings B001, B002, B005 and B008",Built,,1,5,2.2341,Dharug,Rosehill,22 Prospect Street Rosehill 2142,Parramatta,22,Prospect Street
+5065680,Macarthur Girls High School - Archaeology,Archaeological-Terrestrial,,1,5,5.0694,Dharug,Parramatta,9 Thomas Street Parramatta 2150,Parramatta,9,Thomas Street
+5065681,Granville Boys High School,Complex / Group,Education,1,6,1.267,Dharug,Granville,10 Mary Street Granville 2142,Parramatta,10,Mary Street
+5065682,Granville Public School,Complex / Group,Education,1,6,2.0167,Dharug,Granville,13 William Street Granville 2142,Parramatta,13,William Street
+5065683,Kingswood Public School - Building B00B,Built,,1,5,4.204,Dharug,Kingswood,46-54 Second Avenue Kingswood 2747,Penrith,46-54,Second Avenue
+5065684,Llandilo Public School - Building B00F,Built,,1,5,1.012,Dharug,Llandilo,222 Seventh Avenue Llandilo 2747,Penrith,222,Seventh Avenue
+5065685,Penrith Administrative Office - Building B00M,Built,,1,5,0.1372,Dharug,Penrith,57 Henry Street Penrith 2750,Penrith,57,Henry Street
+5065686,Penrith Public School - Building B00A and Significant Trees,Built,,1,5,0.32813,Dharug,Penrith,194 High Street Penrith 2750,Penrith,194,High Street
+5065687,Regentville Public School - Buildings B00A and B00K and Landscape,Built,,1,5,0.8094,Dharug,Regentville,32-34 School House Road Regentville 2745,Penrith,32-34,School House Road
+5065688,"St Marys Public School - Building B00G, Residence, Grounds and Significant Trees",Built,,1,5,3.7005,Dharug,St Marys,2-6 Princess Mary Street St Marys 2760,Penrith,2-Jun,Princess Mary Street
+5065689,Wallacia Public School - Building B00B and B00D,Built,,1,5,1.534,Dharug,Wallacia,1573-1585 Mulgoa Road Wallacia 2745,Penrith,1573-1585,Mulgoa Road
+5065690,Newport Public School - Bell and Foundation Stone,Built,,1,5,0.8397,Eora,Newport,25 Queens Parade Newport 2106,Pittwater,25,Queens Parade
+5065691,Newport Public School - Significant Tree,Built,,1,5,0.8397,Eora,Newport,25 Queens Parade Newport 2106,Pittwater,25,Queens Parade
+5065692,Newport Public School - Significant Tree,Built,,1,5,0.8397,Eora,Newport,25 Queens Parade Newport 2106,Pittwater,25,Queens Parade
+5065693,Narrabeen North Public School - Buildings B00A and B00B,Built,,1,5,2.375,Eora,Narrabeen,6 Namona Street Narrabeen 2101,Pittwater,6,Namona Street
+5065694,Beechwood Public School - Buildings B00B and B00H,Built,,1,5,1.472,Birpai,Beechwood,614 Beechwood Road Beechwood 2446,Port Macquarie-Hastings,614,Beechwood Road
+5065695,Kendall Public School - Building B00A,Built,,1,5,0.8094,Birpai,Kendall,8 Logans Crossing Road Kendall 2439,Port Macquarie-Hastings,8,Logans Crossing Road
+5065697,Wauchope Public School - Buildings B006 and Significant Trees,Built,,1,5,1.74,Birpai,Wauchope,2 Waugh Street Wauchope 2446,Port Macquarie-Hastings,2,Waugh Street
+5065698,Port Macquarie Public School - Archaeology,Archaeological-Terrestrial,,1,5,2.36878,Birpai,Port Macquarie,1-13 Grant Street Port Macquarie 2444,Port Macquarie-Hastings,Jan-13,Grant Street
+5065699,"Hinton Public School - Buildings B00A, B00D, B00E and Memorial Gates",Built,,1,5,0.6604,Awabakal,Hinton,20 Paterson Street Hinton 2321,Port Stephens,20,Paterson Street
+5065701,Raymond Terrace Public School - Building B00C and Movable Item,Built,,1,5,3.50154,Awabakal,Raymond Terrace,154A Adelaide Street Raymond Terrace 2324,Port Stephens,154A,Adelaide Street
+5065702,Iona Public School - Archaeology,Archaeological-Terrestrial,,1,5,0.607,Awabakal,Woodville,848 Paterson Road Woodville 2321,Port Stephens,848,Paterson Road
+5065703,Hinton Public School,Complex / Group,Education,1,6,0.90383,Awabakal,Hinton,20 Paterson Street Hinton 2321,Port Stephens,20,Paterson Street
+5065704,Raymond Terrace Public School,Complex / Group,Education,1,6,1.212,Awabakal,Raymond Terrace,154A Adelaide Street Raymond Terrace 2324,Port Stephens,154A,Adelaide Street
+5065705,Queanbeyan Public School - Building B00I,Built,,1,5,0.8094,Ngunawal,Queanbeyan,21 Isabella Street Queanbeyan 2620,Queanbeyan,21,Isabella Street
+5065706,Queanbeyan Public School,Complex / Group,Education,1,6,2.90024,Ngunawal,Queanbeyan,21 Isabella Street Queanbeyan 2620,Queanbeyan,21,Isabella Street
+5065707,Coogee Public School - Buildings B00A and B00B,Built,,1,5,0.8113,Eora,Coogee,107-121E Coogee Bay Road Coogee 2034,Randwick,107-121E,Coogee Bay Road
+5065708,Kensington Public School - Buildings B001 and B005,Built,,1,5,0.7133,Eora,Kensington,77-79 Doncaster Avenue Kensington 2033,Randwick,77-79,Doncaster Avenue
+5065710,Malabar Public School - Building B00A,Built,,1,5,1.012,Eora,Malabar,231-239 Franklin Street Malabar 2036,Randwick,231-239,Franklin Street
+5065711,"Randwick Public School - Buildings B00A, B00B, B00D and B00I",Built,,1,5,2.240286,Eora,Randwick,62-88 Avoca Street Randwick 2031,Randwick,62-88,Avoca Street
+5065712,Rainbow Street Public School - Building B00A,Built,,1,5,1.803,Eora,Randwick,90-98E Rainbow Street Randwick 2031,Randwick,90-98E,Rainbow Street
+5066018,Centennial Park School and Randwick Public School,Complex / Group,Education,1,6,2.240286,Eora,Randwick,62-88 Avoca Street Randwick 2031,Randwick,62-88,Avoca Street
+5067114,Centennial Park School - Building B002,Built,,0,6,,Eora,Randwick,62-88 Avoca Street Randwick 2031,Randwick,62-88,Avoca Street
+5065713,Casino Public School - Buildings B00A-B00C,Built,,1,5,1.647525,Bundjalung,Casino,31A Walker Street Casino 2470,Richmond Valley,31A,Walker Street
+5065714,Coraki Public School - Buildings B00A and B00B,Built,,1,5,0.8574,Bundjalung,Coraki,48-52 Adams Street Coraki 2471,Richmond Valley,48-52,Adams Street
+5065715,Evans River Community School - Movable Item,Movable / Collection,,1,5,9.896,Bundjalung,Evans Head,97-115 Woodburn Street Evans Head 2473,Richmond Valley,97-115,Woodburn Street
+5065716,Woodburn Central School - Building B00I,Built,,1,5,0.2023,Bundjalung,Woodburn,20-34 Woodburn Street Woodburn 2472,Richmond Valley,20-34,Woodburn Street
+5065717,"Arncliffe Public School - Buildings B00A-B00D and B00F-B00I, Significant Trees and Movable Item",Built,,1,5,1.6043,Tharawal,Arncliffe,168-170 Princes Highway Arncliffe 2205,Rockdale,168-170,Princes Highway
+5065718,Bexley Public School - Buildings B00A and B00B,Built,,1,5,1.471,Tharawal,Bexley,330 Forest Road Bexley 2207,Rockdale,330,Forest Road
+5065719,Brighton-Le- Sands Public School - Buildings B00A and B00B,Built,,1,5,3.446,Eora,Brighton-Le-Sands,35 Crawford Road Brighton-Le-Sands 2216,Rockdale,35,Crawford Road
+5065720,Rockdale Public School - Buildings B00B and B00D,Built,,1,5,0.731287,Tharawal,Rockdale,2 Pitt Street Rockdale 2216,Rockdale,2,Pitt Street
+5065721,"Cairnsfoot School - Buildings B00A and B00B, Grounds and Significant Trees",Built,,3,5,0.7917,Dhawa,Turrella,18 Loftus Street Turrella 2205,Rockdale,18,Loftus Street
+5065722,Field of Mars  Environmental Education Centre - Curtilage,Landscape,,1,5,0.1883,Eora,East Ryde,Westminster Road East Ryde 2113,Ryde,,Westminster Road
+5065723,"Gladesville Public School - Buildings B00A, B00B and B00D",Built,,1,5,2.58101,Eora,Gladesville,172-180 Victoria Road Gladesville 2111,Ryde,172-180,Victoria Road
+5065724,"North Ryde Public School - Building B00J, B00M and B00N",Built,,1,5,3.593835,Eora,North Ryde,154 Coxs Road North Ryde 2113,Ryde,154,Coxs Road
+5065725,Ryde Public School - Buildings B00A and B00C,Built,,1,5,3.331,Eora,Ryde,2 Tucker Street Ryde 2112,Ryde,2,Tucker Street
+5065726,Ermington Public School - Buildings B00K and B00O,Built,,1,5,0.79293,Eora,West Ryde,14 Winbourne Street West Ryde 2114,Ryde,14,Winbourne Street
+5065727,Gladesville Public School,Complex / Group,Education,1,6,0.06928,Eora,Gladesville,172-180 Victoria Road Gladesville 2111,Ryde,172-180,Victoria Road
+5067136,Eastwood Public School - Buildings B00A-B00C and B00O,Built,,0,6,1.30646,Eora,Eastwood,212 Rowe Street Eastwood 2122,Ryde,212,Rowe Street
+5065728,Mount Terry Public School - Significant Tree,Landscape,,1,5,3.053,Tharawal,Albion Park,175 Ashburton Drive Albion Park 2527,Shellharbour,175,Ashburton Drive
+5065729,Albion Park Public School - Buildings B00B and B00H,Built,,1,5,1.619,Tharawal,Albion Park,Tongarra Road Albion Park 2527,Shellharbour,,Tongarra Road
+5065730,Shellharbour Public School - Building B00E and Significant Tree,Built,,1,5,2.5515,Tharawal,Shellharbour,51-53 Mary Street Shellharbour 2529,Shellharbour,51-53,Mary Street
+5065731,Berry Public School - Building B00D and Significant Trees,Built,,1,5,0.6771,Tharawal,Berry,1 Clarence Street Berry 2535,Shoalhaven,1,Clarence Street
+5065733,Falls Creek Public School - Buildings B00A and B00E,Built,,1,5,4.0464,Tharawal,Falls Creek,26 Vidler Road Falls Creek 2540,Shoalhaven,26,Vidler Road
+5065734,Greenwell Point Public School - Building B00D,Built,,1,5,1.012,Tharawal,Greenwell Point,75 Greenwell Point Road Greenwell Point 2540,Shoalhaven,75,Greenwell Point Road
+5065735,Kangaroo Valley Public School - Building B00A,Built,,1,5,1.4037,Tharawal,Kangaroo Valley,140 Moss Vale Road Kangaroo Valley 2577,Shoalhaven,140,Moss Vale Road
+5065736,Milton Public School - Buildings B00A and B00Q,Built,,1,5,4.042,Dhurga,Milton,Thomas Street Milton 2538,Shoalhaven,,Thomas Street
+5065737,Nowra Public School - Building B00A and Grounds,Built,,1,5,0.7023,Tharawal,Nowra,74 Plunkett Street Nowra 2541,Shoalhaven,74,Plunkett Street
+5065738,Nowra Public School - Building B00H,Built,,1,5,0.1062,Tharawal,Nowra,74 Plunkett Street Nowra 2541,Shoalhaven,74,Plunkett Street
+5065739,"Terara Public School - Buildings B00A, B00C and B00E; Grounds and Significant Trees",Built,,1,5,0.8094,Tharawal,Terara,20 Millbank Road Terara 2540,Shoalhaven,20,Millbank Road
+5065740,Tomerong Public School - Building B00A,Built,,1,5,0.4047,Tharawal,Tomerong,359 Hawken Road Tomerong 2540,Shoalhaven,359,Hawken Road
+5065741,Ulladulla Public School - Building B00A,Built,,1,5,0.8094,Dhurga,Ulladulla,241 Green Street Ulladulla 2539,Shoalhaven,241,Green Street
+5065742,Nowra Public School,Complex / Group,Education,1,6,0.8085,Tharawal,Nowra,74 Plunkett Street Nowra 2541,Shoalhaven,74,Plunkett Street
+5066373,Kangaroo Valley Public School - Building B00D,Built,,1,5,0.1012,Tharawal,Kangaroo Valley,140 Moss Vale Road Kangaroo Valley 2577,Shoalhaven,140,Moss Vale Road
+5065743,"Jerrys Plains Public School - Buildings B00A, B00B and B00I",Built,,1,5,0.8094,Wanaruah,Jerrys Plains,27-31 Doyle Street Jerrys Plains 2330,Singleton,27-31,Doyle Street
+5065744,Singleton Public School - Buildings B00A-B00C and B00F,Built,,1,5,0.8214,Wanaruah,Singleton,12 Hunter Street Singleton 2330,Singleton,12,Hunter Street
+5065745,"Singleton High School - Buildings B00C, B00F and B00G",Built,,1,5,1.34,Wanaruah,Singleton,75-81 York Street Singleton 2330,Singleton,75-81,York Street
+5065746,King Street Public School,Complex / Group,Education,1,6,0.2162,Wanaruah,Singleton,8A King Street Singleton 2330,Singleton,8A,King Street
+5065747,Singleton High School,Complex / Group,Education,1,6,1.34,Wanaruah,Singleton,75-81 York Street Singleton 2330,Singleton,75-81,York Street
+5065748,Singleton Public School,Complex / Group,Education,1,6,1.764332,Wanaruah,Singleton,12 Hunter Street Singleton 2330,Singleton,12,Hunter Street
+5065749,Jerrys Plains Public School,Complex / Group,Education,1,6,1.1147,Wanaruah,Jerrys Plains,27-31 Doyle Street Jerrys Plains 2330,Singleton,27-31,Doyle Street
+5065750,Jerrys Plains Public School - Playing Fields,Complex / Group,Education,1,6,0.6069,Wanaruah,Jerrys Plains,32 Doyle Street Jerrys Plains 2330,Singleton,32,Doyle Street
+5065751,Adaminaby Public School - Building B00C and Significant Trees,Built,,1,5,2.023,Ngarigu,Adaminaby,11 Cosgrove Street Adaminaby 2630,Snowy River,11,Cosgrove Street
+5065752,"Berridale Public School - Buildings B00A, B00B and B00G",Built,,1,5,2.364,Ngarigu,Berridale,28 Oliver Street Berridale 2628,Snowy River,28,Oliver Street
+5065753,Dalgety Public School - Buildings B00A and B00B,Built,,1,5,0.8094,Ngarigu,Dalgety,19 Hamilton Street Dalgety 2630,Snowy River,19,Hamilton Street
+5065754,Adaminaby Public School,Complex / Group,Education,1,6,2.023,Ngarigu,Adaminaby,11 Cosgrove Street Adaminaby 2630,Snowy River,11,Cosgrove Street
+5065755,Dalgety Public School,Complex / Group,Education,1,6,0.8094,Ngarigu,Dalgety,19 Hamilton Street Dalgety 2630,Snowy River,19,Hamilton Street
+5065756,Homebush Boys High School - Building B00A and Significant Trees,Built,,1,5,3.06386,Dharug,Homebush,29-37 Bridge Road Homebush 2140,Strathfield,29-37,Bridge Road
+5065757,Homebush Public School - Buildings B00D and B00E,Built,,1,5,0.87514,Dharug,Homebush,26 The Crescent Homebush 2140,Strathfield,26,The Crescent
+5065758,Homebush West Public School - Building B00A,Built,,1,5,0.8107,Dharug,Homebush,20 Exeter Road Homebush 2140,Strathfield,20,Exeter Road
+5065759,Homebush West Public School - Former Church,Built,,1,5,0.0938,Dharug,Homebush,11 Hornsby Road Homebush 2140,Strathfield,11,Hornsby Road
+5065760,Strathfield Adminstrative Office - Buildings B001 and B004 and Landscape,Built,,1,5,0.379,Dharug,Strathfield,65-69 Albert Road Strathfield 2135,Strathfield,65-69,Albert Road
+5065761,"Strathfield South Public School - Buildings B00A, B00B, B00J, B00P and Significant Trees",Built,,1,5,1.176,Dharug,Strathfield,457 Liverpool Road Strathfield 2135,Strathfield,457,Liverpool Road
+5065762,Strathfield Adminstrative Office,Complex / Group,Education,1,6,0.379,Dharug,Strathfield,65-69 Albert Road Strathfield 2135,Strathfield,65-69,Albert Road
+5065763,Marie Bashir Public School,Complex / Group,Education,1,6,0.1179,Dharug,Strathfield,149-161 Albert Road Strathfield 2135,Strathfield,149-161,Albert Road
+5065764,Bundeena Public School - Significant Trees,Landscape,,1,5,2.022,Dhawa,Bundeena,48R Scarborough Street Bundeena 2230,Sutherland,48R,Scarborough Street
+5065765,Cronulla Public School - Buildings B00A and Grounds,Built,,1,5,1.89653,Dhawa,Cronulla,20-24 Burraneer Bay Road Cronulla 2230,Sutherland,20-24,Burraneer Bay Road
+5065766,Cronulla Public School - Significant Trees,Landscape,,1,5,1.428,Dhawa,Cronulla,20-24 Burraneer Bay Road Cronulla 2230,Sutherland,20-24,Burraneer Bay Road
+5065769,Gymea Technology High School - Significant Trees,Landscape,,1,5,5.593,Dhawa,Gymea,490-492 Princes Highway Gymea 2227,Sutherland,490-492,Princes Highway
+5065770,Botany Bay Environmental Education Centre,Landscape,,3,5,,Dhawa,Kurnell,2 Polo Street Kurnell 2231,Sutherland,2,Polo Street
+5065772,Sutherland Public School - Building B00A,Built,,1,5,0.6735,Dhawa,Sutherland,38-54 Eton Street Sutherland 2232,Sutherland,38-54,Eton Street
+5065773,Sutherland Public School - Building B00B and Grounds,Built,,1,5,0.6692,Dhawa,Sutherland,38-54 Eton Street Sutherland 2232,Sutherland,38-54,Eton Street
+5065774,Sylvania Public School - Building B00B,Built,,1,5,0.32743,Dhawa,Sylvania,46 Princes Highway Sylvania 2224,Sutherland,46,Princes Highway
+5065777,Royal National Park Environmental Education Centre,Landscape,,3,6,,Dhawa,Audley,159 Farnell Avenue Audley 2232,Sutherland,159,Farnell Avenue
+5065778,"Darlinghurst Public School - Buildings B00A-B00E, Period Fencing and Landscape",Built,,1,5,0.5962,Eora,Darlinghurst,350 Liverpool Street Darlinghurst 2010,Sydney,350,Liverpool Street
+5065779,Erskineville Public School - Buildings B00B and B00C,Built,,1,5,0.93785,Eora,Erskineville,13 Swanson Street Erskineville 2043,Sydney,13,Swanson Street
+5065780,"Forest Lodge Public School - Buildings B00A and B00C, Period Wall, Period Entrance Gate and Grounds",Built,,1,5,0.568292,Eora,Forest Lodge,231-233 Bridge Road Forest Lodge 2037,Sydney,231-233,Bridge Road
+5065781,Glebe Public School - Buildings B00A-B00D and Memorial,Built,,1,5,0.4864,Eora,Glebe,9-11 Derwent Street Glebe 2037,Sydney,9-Nov,Derwent Street
+5065782,"Fort Street Public School - Building B00A, Grounds and Significant Trees",Built,,3,5,0.36985,Eora,Millers Point,10 Upper Fort Street Millers Point 2000,Sydney,10,Upper Fort Street
+5065783,Sydney Boys High School - Building B00A and Grounds,Built,,1,5,3.61,Eora,Moore Park,556 Cleveland Street Moore Park 1363,Sydney,556,Cleveland Street
+5065784,Sydney Girls High School - Building B00A and Grounds,Built,,1,5,2.247,Eora,Moore Park,560 Cleveland Street Moore Park 1363,Sydney,560,Cleveland Street
+5065785,"Newtown North Public School - Building B00A, Fencing and Grounds",Built,,1,5,0.6531,Eora,Newtown,70 Carillon Avenue Newtown 2042,Sydney,70,Carillon Avenue
+5065786,"Newtown High School of the Performing Arts - Building B00A, Memorial and Grounds",Built,,1,5,0.4259,Eora,Newtown,352-358 King Street Newtown 2042,Sydney,352-358,King Street
+5065787,Newtown High School of the Performing Arts - Building B00H,Built,,1,5,0.1712,Eora,Newtown,352 King Street Newtown 2042,Sydney,352,King Street
+5065788,Paddington Public School - Buildings B00A-B00C and Grounds,Built,,1,5,0.43997,Eora,Paddington,421 Oxford Street Paddington 2021,Sydney,421,Oxford Street
+5065789,Gardeners Road Public School - Buildings B00A-B00D and Grounds,Built,,1,5,2.195,Eora,Rosebery,827 Botany Road Rosebery 2018,Sydney,827,Botany Road
+5065790,"Bourke Street Public School - Buildings B00A and B00B, Fencing and Grounds; Air Raid Shelters (Archaeology)",Built,,1,5,0.58695,Eora,Surry Hills,590-614 Bourke Street Surry Hills 2010,Sydney,590-614,Bourke Street
+5065791,"Inner Sydney High School - Buildings B001-B003, Period Fencing and Grounds",Built,,1,5,0.5645,Eora,Surry Hills,244 Cleveland Street Surry Hills 2010,Sydney,244,Cleveland Street
+5065792,"Crown Street Public School - Buildings B00A-B00D, Period Fencing and Grounds",Built,,3,5,0.62216,Eora,Surry Hills,356 Crown Street Surry Hills 2010,Sydney,356,Crown Street
+5065793,Sydney Distance Education Public School - Buildings B00A and B00B and Period Fencing,Built,,1,5,0.1076,Eora,Surry Hills,376-386 Riley Street Surry Hills 2010,Sydney,376-386,Riley Street
+5065794,Conservatorium High School,Built,,3,5,0.4004,Eora,Sydney,1 Conservatorium Road Sydney 2000,Sydney,1,Conservatorium Road
+5065795,Yudi Gunyi School - Buildings B00A and B00B and Landscaping,Built,,1,5,0.7593,Eora,Waterloo,237-271 Botany Road Waterloo 2017,Sydney,237-271,Botany Road
+5065796,Sydney Distance Education High School - Building B00F,Built,,1,5,0.012,Eora,Woolloomooloo,38-68 Forbes Street Woolloomooloo 2011,Sydney,38-68,Forbes Street
+5065797,Sydney Distance Education High School - Building B00E,Built,,1,5,0.015,Eora,Woolloomooloo,38-68 Forbes Street Woolloomooloo 2011,Sydney,38-68,Forbes Street
+5065798,Sydney Distance Education High School - Building B00A,Built,,1,5,0.0135,Eora,Woolloomooloo,38-68 Forbes Street Woolloomooloo 2011,Sydney,38-68,Forbes Street
+5065799,Sydney Distance Education High School - Building B00A,Built,,1,5,0.0135,Eora,Woolloomooloo,38-68 Forbes Street Woolloomooloo 2011,Sydney,38-68,Forbes Street
+5065800,Alexandria Park Community High School,Complex / Group,Education,1,6,0.6512,Eora,Alexandria,57-77 Mitchell Road Alexandria 2015,Sydney,57-77,Mitchell Road
+5065801,Darlinghurst Public School,Complex / Group,Education,1,6,0.5962,Eora,Darlinghurst,350 Liverpool Street Darlinghurst 2010,Sydney,350,Liverpool Street
+5065803,Erskineville Public School,Complex / Group,Education,1,6,0.5962,Eora,Erskineville,13 Swanson Street Erskineville 2043,Sydney,13,Swanson Street
+5065804,Glebe Public School,Complex / Group,Education,1,6,0.4864,Eora,Glebe,9-11 Derwent Street Glebe 2037,Sydney,9-Nov,Derwent Street
+5065805,Sydney Secondary College - Blackwattle - Car Park,Complex / Group,Education,1,6,0.14862,Eora,Glebe,2-40 Taylor Street Glebe 2037,Sydney,Feb-40,Taylor Street
+5065806,Forest Lodge Public School,Complex / Group,Education,1,6,0.568292,Eora,Forest Lodge,231-233 Bridge Road Forest Lodge 2037,Sydney,231-233,Bridge Road
+5065807,Fort Street Public School,Complex / Group,Education,3,6,0.44542,Eora,Millers Point,10 Upper Fort Street Millers Point 2000,Sydney,10,Upper Fort Street
+5065808,Observatory Hill Environmental Education Centre,Complex / Group,Education,3,6,0.1738,Eora,Millers Point,10 Upper Fort Street Millers Point 2000,Sydney,10,Upper Fort Street
+5065809,Sydney Boys High School,Complex / Group,Education,1,6,,Eora,Moore Park,556 Cleveland Street Moore Park 1363,Sydney,556,Cleveland Street
+5065810,Sydney Girls High School,Complex / Group,Education,1,6,5.857,Eora,Moore Park,560 Cleveland Street Moore Park 1363,Sydney,560,Cleveland Street
+5065811,Newtown Public School,Complex / Group,Education,1,6,0.6173,Eora,Newtown,352-358 King Street Newtown 2042,Sydney,352-358,King Street
+5065812,Newtown High School of the Performing Arts,Complex / Group,Education,1,6,0.8426,Eora,Newtown,352-358 King Street Newtown 2042,Sydney,352-358,King Street
+5065813,Paddington Public School,Complex / Group,Education,1,6,0.43997,Eora,Paddington,421 Oxford Street Paddington 2021,Sydney,421,Oxford Street
+5065814,Crown Street Public School,Complex / Group,Education,1,6,0.62216,Eora,Surry Hills,356 Crown Street Surry Hills 2010,Sydney,356,Crown Street
+5065815,Bourke Street Public School,Complex / Group,Education,1,6,0.58695,Eora,Surry Hills,590-614 Bourke Street Surry Hills 2010,Sydney,590-614,Bourke Street
+5065816,Sydney Distance Education Public School,Complex / Group,Education,1,6,0.1076,Eora,Surry Hills,376-386 Riley Street Surry Hills 2010,Sydney,376-386,Riley Street
+5065817,Plunkett Street Public School,Complex / Group,Education,1,6,0.7917,Eora,Woolloomooloo,38-68 Forbes Street Woolloomooloo 2011,Sydney,38-68,Forbes Street
+5065818,Sydney Distance Education High School,Complex / Group,Education,1,6,,Eora,Woolloomooloo,38-68 Forbes Street Woolloomooloo 2011,Sydney,38-68,Forbes Street
+5065819,Fort Street Public School - Bureau of Meteorology,Built,,3,5,0.02608,Eora,Millers Point,9 Upper Fort Street Millers Point 2000,Sydney,9,Upper Fort Street
+5065820,Fort Street Public School - Messengers Cottage,Built,,3,5,0.04949,Eora,Millers Point,9A Upper Fort Street Millers Point 2000,Sydney,9A,Upper Fort Street
+5065821,"Barraba Central School - Buildings B001, B002 and B004",Built,,1,5,0.9475,Gamilaroi,Barraba,Gotha Street Barraba 2347,Tamworth Regional,,Gotha Street
+5065822,Bendemeer Public School - Building B00A,Built,,1,5,2.276,Gamilaroi,Bendemeer,17-27 Charles Street Bendemeer 2355,Tamworth Regional,17-27,Charles Street
+5065823,Dungowan Public School - Building B00A,Built,,1,5,2.8324,Gamilaroi,Dungowan,137 Ogunbil Road Dungowan 2340,Tamworth Regional,137,Ogunbil Road
+5065824,Kootingal Public School - Buildings B00B-B00G,Built,,1,5,2.03192,Gamilaroi,Kootingal,Denman Avenue Kootingal 2352,Tamworth Regional,,Denman Avenue
+5065825,"Manilla Central School - Buildings B00A, B00B, B00D and B00F",Built,,1,5,0.8094,Gamilaroi,Manilla,Arthur Street Manilla 2346,Tamworth Regional,,Arthur Street
+5065826,"Nundle Public School - Buildings B00A, B00E and B00G",Built,,1,5,0.7134,Gamilaroi,Nundle,93-97 Jenkins Street Nundle 2340,Tamworth Regional,93-97,Jenkins Street
+5065827,Somerton Public School - Buildings B00A-B00C,Built,,1,5,0.2023,Gamilaroi,Somerton,Scotland Road Somerton 2340,Tamworth Regional,,Scotland Road
+5065828,Tamworth West Public School - Building B00J,Built,,1,5,2.023,Gamilaroi,West Tamworth,65 Bridge Street West Tamworth 2340,Tamworth Regional,65,Bridge Street
+5065829,Tamworth Public School - Buildings B00D and B00M,Built,,1,5,4.0364,Gamilaroi,East Tamworth,Upper Street East Tamworth 2340,Tamworth Regional,,Upper Street
+5065830,Timbumburi Public School - Building B00D,Built,,1,5,1.75,Gamilaroi,Timbumburi,542 Kia Ora Lane Timbumburi 2340,Tamworth Regional,542,Kia Ora Lane
+5065831,Tintinhull Public School - Building B00A and B00F (Residence),Built,,1,5,4.0464,Gamilaroi,Tintinhull,85 Tintinhull Road Tintinhull 2352,Tamworth Regional,85,Tintinhull Road
+5065832,Temora Public School - Building B00A,Built,,1,5,0.2024,Wiradjuri,Temora,119 De Boos Street Temora 2666,Temora,119,De Boos Street
+5065833,Temora Public School,Complex / Group,Education,1,6,0.506,Wiradjuri,Temora,119 De Boos Street Temora 2666,Temora,119,De Boos Street
+5065834,Tenterfield High School - Building B00A,Built,,1,5,0.8094,Bundjalung,Tenterfield,75 High Street Tenterfield 2372,Tenterfield,75,High Street
+5065836,Kellyville Public School - Building B00A and B00B,Built,,1,5,2.1091,Dharug,Kellyville,Windsor Road Kellyville 2155,The Hills,,Windsor Road
+5065837,"Brewongle Environmental Education Centre - Buildings B00A, B00G and B00Q and Well",Built,,1,5,1.429,Dharug,Sackville North,720-728 Sackville Ferry Road Sackville North 2756,The Hills,720-728,Sackville Ferry Road
+5065838,Burnside Public School,Complex / Group,,1,6,0.659,Dharug,North Parramatta,85 Pennant Hills Road North Parramatta 2151,The Hills,85,Pennant Hills Road
+5065839,Tumbarumba Public School - Buildings B00A and B00B,Built,,1,5,0.1012,Ngarigu,Tumbarumba,66-84 Murray Street Tumbarumba 2653,Tumbarumba,66-84,Murray Street
+5065840,Adelong Public School - Buildings B00A-B00C and B00H,Built,,1,5,0.20235,Ngunawal,Adelong,50 Gilmore Street Adelong 2729,Tumut,50,Gilmore Street
+5065841,Batlow Technology School - Building B00L,Built,,1,5,0.8094,Ngunawal,Batlow,80 Pioneer Street Batlow 2730,Tumut,80,Pioneer Street
+5065842,Tumut Public School - Building B00G,Built,,1,5,1.225,Ngunawal,Tumut,177 Wynyard Street Tumut 2720,Tumut,177,Wynyard Street
+5065843,Cudgen Public School - Memorial and Honour Roll,Built,,1,5,0.8094,Gumbainggar,Cudgen,11 Collier Street Cudgen 2487,Tweed,11,Collier Street
+5065844,Duranbah Public School - Honour roll,Built,,1,5,2.9394,Gumbainggar,Duranbah,256 Duranbah Road Duranbah 2487,Tweed,256,Duranbah Road
+5065845,Dungay Public School - Building B00C and Memorial,Built,,1,5,1.2826,Gumbainggar,Kynnumboon,305 Tomewin Road Kynnumboon 2484,Tweed,305,Tomewin Road
+5065846,Murwillumbah Public School - Building B00D,Built,,1,5,1.027,Gumbainggar,Murwillumbah,Prince Street Murwillumbah 2484,Tweed,,Prince Street
+5065847,Murwillumbah High School - Building B00A,Built,,1,5,3.199,Gumbainggar,Murwillumbah,86 Kyogle Road Murwillumbah 2484,Tweed,86,Kyogle Road
+5065848,Stokers Siding Public School - Bell,Built,,1,5,0.8712,Gumbainggar,Stokers Siding,252 Stokers Road Stokers Siding 2484,Tweed,252,Stokers Road
+5065849,Condong Public School,Complex / Group,Education,1,6,0.4015,Gumbainggar,Condong,77 McLeod Street Condong 2484,Tweed,77,McLeod Street
+5065850,Murwillumbah Public School,Complex / Group,Education,1,6,1.027,Gumbainggar,Murwillumbah,Prince Street Murwillumbah 2484,Tweed,,Prince Street
+5066020,Uki Public School,Complex / Group,Education,1,6,2.522,Gumbainggar,Uki,1463 Kyogle Road Uki 2484,Tweed,1463,Kyogle Road
+5065851,Cassilis Public School - Buildings B00A-B00D,Built,,1,5,2.023,Wanaruah,Cassilis,37 Coolah Road Cassilis 2329,Upper Hunter,37,Coolah Road
+5065852,Murrurundi Public School - Buildings B00A and B00E,Built,,1,5,0.8517,Wanaruah,Murrurundi,135 Mayne Street Murrurundi 2338,Upper Hunter,135,Mayne Street
+5065853,"Scone Public School - Buildings B00A, B00I and B00L",Built,,1,5,1.94726,Wanaruah,Scone,90 Liverpool Street Scone 2337,Upper Hunter,90,Liverpool Street
+5065854,Cassilis Public School,Complex / Group,Education,1,6,2.023,Wanaruah,Cassilis,37 Coolah Road Cassilis 2329,Upper Hunter,37,Coolah Road
+5065855,Merriwa Central School - Public School,Complex / Group,Education,1,6,1.3063,Wanaruah,Merriwa,33-37 Mackenzie Street Merriwa 2329,Upper Hunter,33-37,Mackenzie Street
+5065856,Merriwa Central School - High School,Complex / Group,Education,1,6,2.023,Wanaruah,Merriwa,59-79 Bow Street Merriwa 2329,Upper Hunter,59-79,Bow Street
+5065857,Merriwa Central School - Agricultural Plot,Complex / Group,Education,1,6,2.0233,Wanaruah,Merriwa,59-79 Bow Street Merriwa 2329,Upper Hunter,59-79,Bow Street
+5065859,Scone Public School,Complex / Group,Education,1,6,1.86632,Wanaruah,Scone,90 Liverpool Street Scone 2337,Upper Hunter,90,Liverpool Street
+5065858,Murrurundi Public School,Complex / Group,Education,1,6,0.8517,Wanaruah,Murrurundi,135 Mayne Street Murrurundi 2338,Upper Lachlan,135,Mayne Street
+5065860,Bigga Public School - Building B00A,Built,,1,5,3.958,Wiradjuri,Bigga,Binda Street Bigga 2583,Upper Lachlan,,Binda Street
+5065861,Collector Public School - Buildings B00A and B00G,Built,,1,5,0.8094,Wiradjuri,Collector,Lorn Street Collector 2581,Upper Lachlan,,Lorn Street
+5065862,"Crookwell Public School - Buildings B00A, B00B and B00J",Built,,1,5,0.7108,Wiradjuri,Crookwell,43 Denison Street Crookwell 2583,Upper Lachlan,43,Denison Street
+5065863,Dalton Public School - Building B00A,Built,,1,5,0.6127,Wiradjuri,Dalton,1-5 Jobson Street Dalton 2581,Upper Lachlan,1-May,Jobson Street
+5065864,"Gunning Public School - Buildings B00F, B00G and B00H",Built,,1,5,0.9107,Wiradjuri,Gunning,Copeland Street Gunning 2581,Upper Lachlan,,Copeland Street
+5065865,Laggan Public School - Building B00H,Built,,1,5,1.0402,Wiradjuri,Laggan,Laggan Road Laggan 2583,Upper Lachlan,,Laggan Road
+5065866,Taralga Public School - Buildings B00A and B00D,Built,,1,5,0.939,Wiradjuri,Taralga,93 Orchard Street Taralga 2580,Upper Lachlan,93,Orchard Street
+5065867,Rocky River Public School,Complex / Group,Education,1,6,1.7187,Anaiwan,Rocky River,354 Thunderbolts Way Rocky River 2358,Uralla,354,Thunderbolts Way
+5065868,Collingullie Public School - Buildings B00A-B00C and B00E,Built,,1,5,1.241,Wiradjuri,Collingullie,18 Urana Street Collingullie 2652,Wagga Wagga,18,Urana Street
+5065869,Humula Public School - Buildings B00A and B00B,Built,,1,5,0.6831,Wiradjuri,Humula,21 School Street Humula 2652,Wagga Wagga,21,School Street
+5065870,Ladysmith Public School - Buildings B00A and B00B,Built,,1,5,2.032,Wiradjuri,Ladysmith,3 Tywong Street Ladysmith 2652,Wagga Wagga,3,Tywong Street
+5065872,"North Wagga Public School - Buildings B00A-B00C, B00E and B00F",Built,,1,5,0.815,Wiradjuri,Wagga Wagga,54 Hampden Avenue Wagga Wagga 2650,Wagga Wagga,54,Hampden Avenue
+5065873,Wagga Wagga High School - Building B00B,Built,,1,5,0.6096,Wiradjuri,Turvey Park,36 Coleman Street Turvey Park 2650,Wagga Wagga,36,Coleman Street
+5065874,Uranquinty Public School - Building B00A,Built,,1,5,1.021,Wiradjuri,Uranquinty,25 Uranquintry Street Uranquinty 2652,Wagga Wagga,25,Uranquintry Street
+5065875,South Wagga Public School - Building B00F,Built,,1,5,2.042,Wiradjuri,Wagga Wagga,140 Edward Street Wagga Wagga 2650,Wagga Wagga,140,Edward Street
+5065876,Wagga Wagga Public School - Buildings B00A-B00E and B00J,Built,,1,5,0.2026,Wiradjuri,Wagga Wagga,70 Gurwood Street Wagga Wagga 2650,Wagga Wagga,70,Gurwood Street
+5065877,Wagga Wagga Public School,Complex / Group,Education,1,6,1.2543,Wiradjuri,Wagga Wagga,70 Gurwood Street Wagga Wagga 2650,Wagga Wagga,70,Gurwood Street
+5065878,South Wagga Public School,Complex / Group,Education,1,6,2.042,Wiradjuri,Wagga Wagga,140 Edward Street Wagga Wagga 2650,Wagga Wagga,140,Edward Street
+5065879,Burren Junction Public School - Building B00M,Built,,1,5,1.072,Gamilaroi,Burren Junction,7 Alma Street Burren Junction 2386,Walgett,7,Alma Street
+5065880,Carinda Public School - Residence,Built,,1,5,2.023,Gamilaroi,Carinda,2 McNamara Street Carinda 2831,Walgett,2,McNamara Street
+5065881,Collarenebri Central School - Building B00C,Built,,1,5,0.8094,Gamilaroi,Collarenebri,42 Herbert Street Collarenebri 2833,Walgett,42,Herbert Street
+5065882,Lightning Ridge Public School - Building B00B,Built,,1,5,0.8094,Gamilaroi,Lightning Ridge,Brilliant Street Lightning Ridge 2834,Walgett,,Brilliant Street
+5065883,Brookvale Public School - Building B00G,Built,,1,5,1.8267,Guringai,Brookvale,2-8 Old Pittwater Road Brookvale 2100,Warringah,2-Aug,Old Pittwater Road
+5065884,Davidson High School - Significant Trees,Landscape,,1,5,8.1923,Guringai,Frenchs Forest,Blackbutts Road Frenchs Forest 2086,Warringah,,Blackbutts Road
+5065885,Forest High School - Former Hollands Orchard and Commemorative Grove,Landscape,,1,5,6.317,Eora,Frenchs Forest,Frenchs Forest Road West Frenchs Forest 2086,Warringah,,Frenchs Forest Road West
+5065886,Harbord Public School - Building B00Q,Built,,1,5,2.647,Guringai,Freshwater,95 Oliver Street Freshwater 2096,Warringah,95,Oliver Street
+5065887,Narrabeen Lakes Public School - Memorial,Built,,1,5,0.7162,Eora,Narrabeen,1299 Pittwater Road Narrabeen 2101,Warringah,1299,Pittwater Road
+5065888,Narrabeen Lakes Public School - Building B00A,Built,,1,5,0.7162,Eora,Narrabeen,1299 Pittwater Road Narrabeen 2101,Warringah,1299,Pittwater Road
+5065889,Narrabeen Lakes Public School - Building B00D,Built,,1,5,0.7162,Eora,Narrabeen,1299 Pittwater Road Narrabeen 2101,Warringah,1299,Pittwater Road
+5065890,Narrabeen Lakes Public School - Memorial,Built,,1,5,0.7162,Eora,Narrabeen,1299 Pittwater Road Narrabeen 2101,Warringah,1299,Pittwater Road
+5065891,"Narraweena Primary School - Buildings B00I, B00J and B00L",Built,,1,5,2.031,Guringai,Narraweena,78 McIntosh Road Narraweena 2099,Warringah,78,McIntosh Road
+5065892,Northern Beaches Secondary College - Manly Campus - Memorial,Built,,1,5,0.7208,Eora,North Curl Curl,Abbott Road North Curl Curl 2099,Warringah,,Abbott Road
+5065893,Stewart House School - Curtilage,Built,,1,5,1.027,Eora,Curl Curl,45 Carrington Parade Curl Curl 2096,Warringah,45,Carrington Parade
+5065894,"Bondi Public School - Buildings B00A, B00C-B00E and Grounds",Built,,1,5,1.141,Dharug,Bondi,3-11 Wellington Street Bondi 2026,Waverley,3-Nov,Wellington Street
+5065895,Bondi Public School - Building B00B,Built,,1,5,1.141,Dharug,Bondi,3-11 Wellington Street Bondi 2026,Waverley,3-Nov,Wellington Street
+5065896,Bondi Beach Public School - Building B00A,Built,,1,5,1.111,Dharug,Bondi Beach,85 Warners Avenue Bondi Beach 2026,Waverley,85,Warners Avenue
+5065897,Bondi Beach Public School - Grounds and Significant Trees,Landscape,,1,5,1.111,Dharug,Bondi Beach,85 Warners Avenue Bondi Beach 2026,Waverley,85,Warners Avenue
+5065898,Bronte Public School - Building B00A,Built,,1,5,0.5575,Dharug,Bronte,44 Murray Street Bronte 2024,Waverley,44,Murray Street
+5065899,Bronte Public School - Grounds and Significant Trees,Landscape,,1,5,0.5575,Dharug,Bronte,44 Murray Street Bronte 2024,Waverley,44,Murray Street
+5065900,Bondi Beach Public School,Complex / Group,Education,1,6,1.111,Dharug,Bondi Beach,85 Warners Avenue Bondi Beach 2026,Waverley,85,Warners Avenue
+5065901,Waverley Public School,Complex / Group,Education,1,6,1.0562,Dharug,Waverley,151 Bronte Road Waverley 2024,Waverley,151,Bronte Road
+5065902,Clovelly Public School,Complex / Group,Education,1,6,1.16911,Dharug,Clovelly,3A Arden Street Clovelly 2031,Waverley,3A,Arden Street
+5067078,Rose Bay Secondary College - Building B00A,Built,,0,6,2.421,Eora,Rose Bay,36 Hardy Street Rose Bay 2029,Waverley,36,Hardy Street
+5065903,Euchareena Public School - Building B00B,Built,,1,5,0.7987,Wiradjuri,Euchareena,2 Walter Street Euchareena 2866,Wellington,2,Walter Street
+5065904,Geurie Public School - Building B00B,Built,,1,5,0.8585,Wiradjuri,Geurie,60 Narragal Street Geurie 2831,Wellington,60,Narragal Street
+5065905,"Wellington Public School - Buildings B00A, B00E, B00F and B00T; Movable Item and Significant Tree",Built,,1,5,0.8094,Wiradjuri,Wellington,101-103 Arthur Street Wellington 2820,Wellington,101-103,Arthur Street
+5065906,Wellington High School - Movable Item,Movable / Collection,,1,5,0.0771,Wiradjuri,Wellington,80-98 Whiteley Street Wellington 2820,Wellington,80-98,Whiteley Street
+5065907,Wellington Public School,Complex / Group,Education,1,6,2.43857,Wiradjuri,Wellington,101-103 Arthur Street Wellington 2820,Wellington,101-103,Arthur Street
+5065908,Wentworth Public School - Buildings B00F and B00G,Built,,1,5,0.6905,Mundi-Mundi,Wentworth,93-107 Darling Street Wentworth 2648,Wentworth,93-107,Darling Street
+5065909,Chatswood Public School - Buildings B00A and B00B,Built,,1,5,1.3355,Dharug,Chatswood,5 Centennial Avenue Chatswood 2067,Willoughby,5,Centennial Avenue
+5065910,Naremburn School - Building B00A,Built,,1,5,0.1935,Guringai,Naremburn,250 Willoughby Road Naremburn 2065,Willoughby,250,Willoughby Road
+5065911,Northbridge Public School - Building B00A,Built,,1,5,0.8094,Guringai,Northbridge,Sailors Bay Road Northbridge 2063,Willoughby,,Sailors Bay Road
+5065912,"Willoughby Girls High School - Building B00A, B00C and B00F",Built,,1,5,1.2135,Dharug,Willoughby,151-161 Mowbray Road Willoughby 2068,Willoughby,151-161,Mowbray Road
+5065913,Willoughby Public School - Building B00C,Built,,1,5,1.95581,Guringai,Willoughby,151-161 Mowbray Road Willoughby 2068,Willoughby,151-161,Mowbray Road
+5067088,Chatswood High School - Building B00J,Built,,0,6,4.53,Eora,Chatswood,24 Centennial Avenue Chatswood 2067,Willoughby,24,Centennial Avenue
+5065914,Avoca Public School - Buildings B00A and B00F,Built,,1,5,0.8094,Gandangara,Avoca,961 Sheepwash Drive Avoca 2577,Wingecarribee,961,Sheepwash Drive
+5065915,Berrima Public School - Buildings B00E and B00G,Built,,1,5,1.8882,Gandangara,Berrima,Oxley Street Berrima 2577,Wingecarribee,,Oxley Street
+5065916,"Bowral Public School - Buildings B001-B003, B005, B006, B008-B010 and B012; Grounds and Movable Items",Built,,1,5,1.432,Gandangara,Bowral,47 Bendooley Street Bowral 2576,Wingecarribee,47,Bendooley Street
+5065917,Bowral Public School - Building B011,Built,,1,5,0.4049,Gandangara,Bowral,49 Bendooley Street Bowral 2576,Wingecarribee,49,Bendooley Street
+5065918,Bowral High School - Buildings B00D and B00H,Built,,1,5,4.515,Gandangara,Bowral,7 Park Road Bowral 2576,Wingecarribee,7,Park Road
+5065919,"Bundanoon Public School - Buildings B00A, B00B, B00D and B00E",Built,,1,5,1.8867,Gandangara,Bundanoon,6-14 Church Street Bundanoon 2578,Wingecarribee,Jun-14,Church Street
+5065920,Exeter Public School - Buildings B00B and B00F and Significant Trees,Built,,1,5,1.6984,Gandangara,Exeter,School Lane Exeter 2579,Wingecarribee,,School Lane
+5065921,Glenquarry Public School - Buildings B00A and B00F,Built,,1,5,1.62,Gandangara,Glenquarry,35 Tourist Road Glenquarry 2576,Wingecarribee,35,Tourist Road
+5065922,Moss Vale Public School - Buildings B00B and B00C,Built,,1,5,1.6466,Gandangara,Moss Vale,12 Browley Street Moss Vale 2577,Wingecarribee,12,Browley Street
+5065923,"Penrose Public School - Buildings B00A, B00B, B00E and B00F and Significant Trees",Built,,1,5,1.6188,Gandangara,Penrose,817 Penrose Road Penrose 2579,Wingecarribee,817,Penrose Road
+5065924,"Robertson Public School - Buildings B00A, B00B and B00D",Built,,1,5,1.51342,Gandangara,Robertson,47-53 Hoddle Street Robertson 2577,Wingecarribee,47-53,Hoddle Street
+5065925,Wingello Public School - Building B00D,Built,,1,5,4.452,Gandangara,Wingello,591 Murrimba Road Wingello 2579,Wingecarribee,591,Murrimba Road
+5065926,Bowral Public School,Complex / Group,Education,1,6,1.432,Gandangara,Bowral,47 Bendooley Street Bowral 2576,Wingecarribee,47,Bendooley Street
+5065927,Bowral Public School - Residence and Oval,Complex / Group,Education,1,6,0.4049,Gandangara,Bowral,49 Bendooley Street Bowral 2576,Wingecarribee,49,Bendooley Street
+5065928,Berrima Public School,Complex / Group,Education,1,6,1.8882,Gandangara,Berrima,Oxley Street Berrima 2577,Wingecarribee,,Oxley Street
+5065929,Burrawang Public School,Complex / Group,Education,1,6,0.6252,Gandangara,Burrawang,24 Church Street Burrawang 2577,Wingecarribee,24,Church Street
+5065930,Moss Vale Public School,Complex / Group,Education,1,6,2.7899,Gandangara,Moss Vale,12 Browley Street Moss Vale 2577,Wingecarribee,12,Browley Street
+5065931,Mittagong Public School,Complex / Group,Education,1,6,0.1644,Gandangara,Mittagong,19 Pioneer Street Mittagong 2575,Wingecarribee,19,Pioneer Street
+5065932,Appin Public School - Building B00G,Built,,1,5,0.7226,Gandangara,Appin,97 Appin Road Appin 2560,Wollondilly,97,Appin Road
+5065933,Bargo Public School - Buildings B00C,Built,,1,5,0.1486,Gandangara,Bargo,122 Hawthorne Road Bargo 2574,Wollondilly,122,Hawthorne Road
+5065934,Bargo Public School - Building B00M,Built,,1,5,1.1828,Gandangara,Bargo,245-261 Great Southern Road Bargo 2574,Wollondilly,245-261,Great Southern Road
+5065935,Cawdor Public School - Building B00A,Built,,1,5,1.1129,Gandangara,Cawdor,685 Cawdor Road Cawdor 2570,Wollondilly,685,Cawdor Road
+5065936,Mount Hunter Public School - Buildings B00A and B00B,Built,,1,5,1.214,Gandangara,Mount Hunter,165 Burragorang Road Mount Hunter 2570,Wollondilly,165,Burragorang Road
+5065937,The Oaks Public School - Buildings B00C and B00J,Built,,1,5,0.4452,Gandangara,The Oaks,5 Burragorang Street The Oaks 2570,Wollondilly,5,Burragorang Street
+5065938,Thirlmere Public School - Buildings B00B and B00C,Built,,1,5,1.023,Gandangara,Thirlmere,10 Oaks Street Thirlmere 2572,Wollondilly,10,Oaks Street
+5065939,Picton Public School,Complex / Group,Education,1,6,1.6599,Gandangara,Picton,27 Lumsdaine Street Picton 2571,Wollondilly,27,Lumsdaine Street
+5065941,Thirlmere Public School,Complex / Group,Education,1,6,1.023,Gandangara,Thirlmere,10 Oaks Street Thirlmere 2572,Wollondilly,10,Oaks Street
+5065942,Warragamba Public School,Complex / Group,Education,1,6,2.187,Gandangara,Warragamba,2 Weir Road Warragamba 2752,Wollondilly,2,Weir Road
+5065943,Austinmer Public School - Building B00B,Built,,1,5,0.8941,Dhawa,Austinmer,92-94 Lawrence Hargrave Drive Austinmer 2515,Wollongong City,92-94,Lawrence Hargrave Drive
+5065944,Balgownie Public School - Building B00B and Residence,Built,,1,5,1.69,Dhawa,Balgownie,220 Balgownie Road Balgownie 2519,Wollongong City,220,Balgownie Road
+5065945,Corrimal Public School - Building B00F,Built,,1,5,0.141,Dhawa,Corrimal,96-98 Princes Highway Corrimal 2518,Wollongong City,96-98,Princes Highway
+5065946,Corrimal Public School - Buildings B00A and B00B,Built,,1,5,1.37,Dhawa,Corrimal,100 Princes Highway Corrimal 2518,Wollongong City,100,Princes Highway
+5065947,Helensburgh Public School - Building B00B,Built,,1,5,0.8094,Dhawa,Helensburgh,11 Fletcher Street Helensburgh 2508,Wollongong City,11,Fletcher Street
+5065948,Mount Kembla Public School - Buildings B00A and B00C,Built,,1,5,0.8043,Dhawa,Mount Kembla,323-327 Cordeaux Road Mount Kembla 2526,Wollongong City,323-327,Cordeaux Road
+5065949,Mount Keira Public School - Buildings B00A and B00C-B00G,Built,,1,5,1.1433,Dhawa,Mount Keira,255 Mount Keira Road Mount Keira 2500,Wollongong City,255,Mount Keira Road
+5065950,Scarborough Public School - Building B00A,Built,,1,5,0.0342,Dhawa,Scarborough,371-381 Lawrence Hargrave Drive Scarborough 2515,Wollongong City,371-381,Lawrence Hargrave Drive
+5065951,"Thirroul Public School - Buildings B00A, B00B and B00E",Built,,1,5,2.193,Dhawa,Thirroul,11 Roxburgh Avenue Thirroul 2515,Wollongong City,11,Roxburgh Avenue
+5065952,Wollongong Public School - Buildings B00B-B00D and Wollongong High School of Perfoming Arts - Building B00J,Built,,1,5,1.40923,Dhawa,Wollongong,67A Church Street Wollongong 2500,Wollongong City,67A,Church Street
+5065953,Woonona Public School - Building B006,Built,,1,5,0.38197,Dhawa,Wollongong,5A Gray Street Wollongong 2500,Wollongong City,5A,Gray Street
+5065954,Mount Keira Public School,Complex / Group,Education,1,6,1.1433,Dhawa,Mount Keira,255 Mount Keira Road Mount Keira 2500,Wollongong City,255,Mount Keira Road
+5065955,Bellevue Hill Public School - Significant Trees,Landscape,,1,5,0.74488,Eora,Bellevue Hill,163A Victoria Road Bellevue Hill 2023,Woollahra,163A,Victoria Road
+5065956,Double Bay Public School - Building B00A and Period gate posts,Built,,1,5,0.7329,Eora,Double Bay,40 Ocean Avenue Double Bay 2028,Woollahra,40,Ocean Avenue
+5065957,"Glenmore Road Public School - Buildings B00A, B00D and B00E and Period Wall",Built,,1,5,0.806,Eora,Paddington,269 Glenmore Road Paddington 2021,Woollahra,269,Glenmore Road
+5065958,Woollahra Public School - Buildings B00A and B00B,Built,,1,5,0.7259,Eora,Woollahra,Forth Street Woollahra 2025,Woollahra,,Forth Street
+5065959,Glenmore Road Public School,Complex / Group,Education,1,6,0.806,Eora,Paddington,269 Glenmore Road Paddington 2021,Woollahra,269,Glenmore Road
+5065960,Woollahra Public School,Complex / Group,Education,1,6,0.7259,Eora,Woollahra,Forth Street Woollahra 2025,Woollahra,,Forth Street
+5065963,Dooralong Public School - Building B00B,Built,,1,5,4.0464,Darkinjung,Dooralong,1046 Dooralong Road Dooralong 2259,Wyong,1046,Dooralong Road
+5065964,Dooralong Public School - Landscape,Landscape,,1,5,4.0464,Darkinjung,Dooralong,1046 Dooralong Road Dooralong 2259,Wyong,1046,Dooralong Road
+5065966,Jilliby Public School - Building B00A and Significant Tree,Built,,1,5,1.6408,Darkinjung,Jilliby,352 Jilliby Road Jilliby 2259,Wyong,352,Jilliby Road
+5065967,Ourimbah Public School - Building B00E,Built,,1,5,3.8519,Darkinjung,Ourimbah,121-123 Pacific Highway Ourimbah 2258,Wyong,121-123,Pacific Highway
+5065968,Wyong Creek  Public School - Building B00D,Built,,1,5,1.8974,Darkinjung,Wyong Creek,583 Yarramalong Road Wyong Creek 2259,Wyong,583,Yarramalong Road
+5065969,Binalong Public School - Building B00B and Residence,Built,,1,5,1.39844,Ngunawal,Binalong,10 Dickinson Street Binalong 2584,Yass Valley,10,Dickinson Street
+5065970,Bowning Public School - Building B00A,Built,,1,5,2.4252,Ngunawal,Bowning,147 Bowning Road Bowning 2582,Yass Valley,147,Bowning Road
+5065971,Gundaroo Public School - Building B00E and Grounds,Built,,1,5,1.7073,Ngunawal,Gundaroo,9 Lot Street Gundaroo 2620,Yass Valley,9,Lot Street
+5065972,Sutton Public School - Buildings B00E and B00H and Grounds,Built,,1,5,2.88086,Ngunawal,Sutton,18 Victoria Street Sutton 2620,Yass Valley,18,Victoria Street
+5065974,Wee Jasper Public School - Buildings B00A and B00C,Built,,1,5,3.832,Ngunawal,Wee Jasper,6443 Wee Jasper Road Wee Jasper 2582,Yass Valley,6443,Wee Jasper Road
+5065975,"Yass Public School - Buildings B00B, B00C, B00E-B00G, B00I-B00L and B00P and Grounds",Built,,1,5,2.039,Ngunawal,Yass,12-16 Laidlaw Street Yass 2582,Yass Valley,Dec-16,Laidlaw Street
+5065976,Gundaroo Public School,Complex / Group,Education,1,6,1.7073,Ngunawal,Gundaroo,9 Lot Street Gundaroo 2620,Yass Valley,9,Lot Street
+5065977,Koorawatha Public School - Building B00B,Built,,1,5,0.6401,Wiradjuri,Koorawatha,19 Crowther Street Koorawatha 2807,Young,19,Crowther Street
+5065978,Murringo Public School - Buildings B00A and B00F,Built,,1,5,0.6045,Wiradjuri,Murringo,91 Murringo Gap Road Murringo 2586,Young,91,Murringo Gap Road
+5065979,Young High School - Building B0AA,Built,,1,5,0.6627,Wiradjuri,Young,9 Campbell Street Young 2594,Young,9,Campbell Street
+5067013,Young Regional School of Music - Victorian Residences,Built,,0,6,0.3387,Wiradjuri,Young,11 and 15-17 Campbell Street Young 2594,Young,11 and 15-17,Campbell Street
