@@ -23,12 +23,34 @@
         "stroke": "white"
       }
     },
+
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+        "url": "https://raw.githubusercontent.com/rowanhogan/australian-states/refs/heads/master/states.geojson",
+        "format": {
+          "type": "json"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.STATE_NAME == 'New South Wales'"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": null,
+        "stroke": "red",
+        "strokeWidth": 2
+      }
+    }
+    ,
+
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/week9_homework/Week%209%20Homework/json/map_graticules.json",
         "format": {
           "type": "topojson",
-          "feature": "ne_110m_graticules_30"
+          "feature": "ne_110m_graticules_1"
         }
       },
       "mark": {
