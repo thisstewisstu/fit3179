@@ -23,7 +23,7 @@ try:
     schools_df['ItemName'] = schools_df['SchoolName'].str.split(' - ').str[1].str.strip()  # Part after dash as ItemName
     
     # Clean up the SchoolName in locations_df for matching
-    locations_df['SchoolName'] = locations_df['SchoolName'].str.strip().str.lower()  # Adjust this column name if necessary
+    locations_df['SchoolName'] = locations_df['SchoolName'].str.strip().str.lower()  # this line was provided by ChatGPT
 
     # Step 4: Merge the DataFrames on the MatchName column
     merged_df = pd.merge(schools_df, locations_df, left_on='MatchName', right_on='SchoolName', how='left')  # Keep all from schools_df
