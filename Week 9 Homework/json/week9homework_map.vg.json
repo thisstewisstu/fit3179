@@ -90,7 +90,8 @@
           {"field": "SchoolName", "type": "nominal", "title": "School Name"},
           {"field": "ConditionalItemName", "type": "nominal", "title": "Heritage Item(s)"},
           {"field": "HeritageTypeName", "type": "nominal", "title": "Heritage Type"},
-          {"field": "EndorsedSignificance", "type": "quantitative", "title": "Endorsed Significance"}
+          {"field": "EndorsedSignificance", "type": "nominal", "title": "Endorsed Significance"},
+          {"field": "LocalGovtAreaName", "type": "nominal", "title": "Local Government Area"}
         ]
       }
     }
