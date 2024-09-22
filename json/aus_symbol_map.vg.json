@@ -5,8 +5,8 @@
   "title": "Heritage Sites of NSW Government Schools in 2020",
   "projection": {
     "type": "equirectangular",
-    "center": [151.2, -33.5],
-    "scale": 1500
+    "center": [149.2, -33.5],
+    "scale": 2000
   },
   "layer": [
     {
@@ -19,22 +19,23 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "lightgoldenrodyellow",
+        "fill": "lightgoldenrodyellow",  
         "stroke": "white"
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/json/aus_map_with_borders.json",
+        "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/json/aus_map_with_states.json",
         "format": {
-          "type": "topojson"
+          "type": "topojson",
+          "feature": "states"
         }
       },
       "mark": {
         "type": "geoshape",
-        "fill": "red",
-        "stroke": "red",
-        "strokeWidth": 2
+        "fill": "lightgoldenrodyellow",
+        "stroke": "gold",
+        "strokeWidth": 1.1
       }
     },
     {
