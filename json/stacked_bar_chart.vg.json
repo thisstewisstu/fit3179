@@ -1,0 +1,32 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 450,
+    "title": "Endorsed Significance of Heritage Sites and Their Heritage Type",
+    "data": {
+      "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/data/merged_schools_data.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "EndorsedSignificance",
+        "type": "ordinal",
+        "title": "Endorsed Significance"
+      },
+      "y": {
+        "aggregate": "count",
+        "type": "quantitative",
+        "title": "Count of Heritage Sites"
+      },
+      "color": {
+        "field": "HeritageTypeName",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial"],
+          "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796"]
+        },  
+        "title": "Heritage Type"
+      }
+    }
+  }
+  
