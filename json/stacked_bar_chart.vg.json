@@ -6,6 +6,34 @@
     "data": {
       "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/data/merged_schools_data.csv"
     },
+    "params": [
+      {
+        "name": "HeritageTypeSelection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Built",
+            "Complex / Group",
+            "Landscape",
+            "Archaeological-Terrestrial"
+          ],
+          "labels": [
+            "Show All",
+            "Built",
+            "Complex / Group",
+            "Landscape",
+            "Archaeological-Terrestrial"
+          ],
+          "name": "Select Heritage Type: "
+        }
+      }
+    ],
+    "transform": [
+      {
+        "filter": "HeritageTypeSelection == null || datum.HeritageTypeName == HeritageTypeSelection"
+      }
+    ],
     "mark": "bar",
     "encoding": {
       "x": {
@@ -24,7 +52,7 @@
         "scale": {
           "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial"],
           "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796"]
-        },  
+        },
         "title": "Heritage Type"
       }
     }

@@ -1,28 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+  
 <head>
   <!-- Import Vega & Vega-Lite -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
   
-  
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
   
+  <title>FIT3179 Data Visualisation II - Jasmine See</title>
+  <style>
+    #symbol_map, #stacked_bar_chart {
+      margin-bottom: 20px; /* add margin between map and stacked bar chart */
+    }
+    h1 {
+      text-align: center; 
+      margin-bottom: 20px; /* add margin below heading */
+    }
+  </style>
 </head>
+
 <body>
-  
-<div id="symbol_map"></div>
+  <h1>Heritage Sites of Government Schools in New South Wales</h1>
 
-<script type="text/javascript">
+  <div id="symbol_map"></div>
+  <div id="stacked_bar_chart"></div>
 
-<!-- Embed symbol map -->
-  var spec2 = "json/aus_symbol_map.vg.json";
-  vegaEmbed('#symbol_map', spec2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
+  <script type="text/javascript">
+    // Embed symbol map
+    var vis1 = "json/aus_symbol_map.vg.json";
+    vegaEmbed('#symbol_map', vis1).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
+
+  <script>
+    // Embed stacked bar chart
+    var vis2 = "json/stacked_bar_chart.vg.json";
+    vegaEmbed('#stacked_bar_chart', vis2).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
 
 </body>
 </html>
