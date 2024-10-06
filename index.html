@@ -11,22 +11,52 @@
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
   
   <title>FIT3179 Data Visualisation II - Jasmine See</title>
-  <style>
-    #symbol_map, #stacked_bar_chart {
-      margin-bottom: 20px; /* add margin between map and stacked bar chart */
-    }
-    h1 {
-      text-align: center; 
-      margin-bottom: 20px; /* add margin below heading */
-    }
-  </style>
 </head>
 
 <body>
   <h1>Heritage Sites of Government Schools in New South Wales</h1>
 
-  <div id="symbol_map"></div>
-  <div id="stacked_bar_chart"></div>
+  <!-- Container for map and its description -->
+  <div class="container">
+    <div id="symbol_map" class="visualization"></div>
+    <div class="description">
+      <h2>Symbol Map of New South Wales</h2>
+      <p>
+        This map visualizes the location of heritage sites across New South Wales government schools.
+        Each circle represents a school site, categorized by colour for heritage type and size for their endorsed significance.
+        A large majority of heritage sites are clustered along the coastline, aligning with the fact that many school zones are 
+        also located along the coast.
+        <br><br>
+        Source:
+        <ul>
+          <li><a href="https://mangomap.com/schoolcatchment/maps/56084/schoolcatchment.com.au-NSW-Sydney-Public-School-Catchment#" target="_blank">
+          https://mangomap.com/schoolcatchment/maps/56084/schoolcatchment.com.au-NSW-Sydney-Public-School-Catchment#</a></li>
+        </ul>
+      </p>
+    </div>
+  </div>
+
+  <!-- Container for stacked bar chart and its description -->
+  <div class="container">
+    <div id="stacked_bar_chart" class="visualization"></div>
+    <div class="description">
+      <h2>Number of Each Heritage Type Categorised by Endorsed Significance</h2>
+      <p>
+        This stacked bar chart shows the endorsed significance of heritage sites, classified by heritage type.
+        The chart allows users to filter by the type of heritage for a more focused analysis by using a drop-down menu.
+        There is an overwhelming number of heritage sites which are only of endorsed significance of 1, after each site 
+        has been carefully assessed. This indicates that most sites are recognised as local heritage.
+        <br><br>
+        Sources:
+        <ul>
+          <li><a href="https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/assessing-heritage-significance-guidelines-assessing-places-objects-against-criteria-230167.pdf" target="_blank">
+            https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/assessing-heritage-significance-guidelines-assessing-places-objects-against-criteria-230167.pdf</a></li>
+          <li><a href="https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/levels-of-heritage-significance.pdf" target="_blank">
+            https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/levels-of-heritage-significance.pdf</a></li>
+        </ul>
+      </p>
+    </div>
+  </div>
 
   <script type="text/javascript">
     // Embed symbol map

@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
+    "width": 750,
     "height": 450,
     "title": "Endorsed Significance of Heritage Sites and Their Heritage Type",
     "data": {

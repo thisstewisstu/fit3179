@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 800,
+  "width": 650,
   "height": 450,
   "title": "Heritage Sites of NSW Government Schools in 2020",
   "projection": {

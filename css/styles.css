@@ -1,0 +1,37 @@
+body {
+    margin: 0; /* Remove default margin */
+    font-family: Arial, sans-serif; /* Set a default font for the body */
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0; /* Add vertical margin for spacing */
+}
+
+.container {
+    display: flex; /* Align items horizontally */
+    justify-content: space-between; /* Space between map and text */
+    margin: 40px; /* Margin between sections */
+}
+
+.visualization {
+    flex: 2; /* Make the chart take up more space */
+    margin-right: 20px; /* Margin between chart and text */
+}
+
+.description {
+    flex: 1; /* Text takes less space compared to visualization */
+    max-width: 300px; /* Maximum width for the description */
+    padding: 10px; /* Padding inside the description box */
+}
+
+.description a {
+    word-break: break-all; /* Forces long URLs to break */
+    overflow-wrap: break-word; /* Ensures the text wraps within the container */
+}
+
+#symbol_map {
+    height: 600px; 
+    width: 150%; /* Make it responsive */
+    max-width: 800px; /* Maximum width for the map */
+}
