@@ -54,7 +54,12 @@
           "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796"]
         },
         "title": "Heritage Type"
-      }
+      },
+      "tooltip": [
+      {"field": "EndorsedSignificance", "type": "ordinal", "title": "Endorsed Significance"},
+      {"field": "HeritageTypeName", "type": "nominal", "title": "Heritage Type"},
+      {"aggregate": "count", "type": "quantitative", "title": "Count of Heritage Sites"}
+    ]
     }
   }
   
