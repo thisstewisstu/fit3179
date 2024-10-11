@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 400,
+  "data": {
+      "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/data/merged_schools_data.csv"
+  },
+  "transform": [
+      {
+          "aggregate": [
+              {"op": "count", "as": "HeritageTypeCount"}
+          ],
+          "groupby": ["HeritageTypeName"]
+      }
+  ],
+  "mark": {
+      "type": "arc",
+      "innerRadius": 50
+  },
+  "encoding": {
+      "theta": {
+          "field": "HeritageTypeCount",
+          "type": "quantitative"
+      },
+      "color": {
+          "field": "HeritageTypeName",
+          "type": "nominal",
+          "scale": {
+          "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial", "Movable / Collection"],
+          "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796", "#ac6c53"]
+        }
+      },
+      "tooltip": [
+          {"field": "HeritageTypeName", "type": "nominal", "title": "Heritage Type"},
+          {"field": "HeritageTypeCount", "type": "quantitative", "title": "Number of Items"}
+      ]
+  }
+}

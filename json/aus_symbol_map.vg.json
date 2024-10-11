@@ -85,7 +85,11 @@
         "color": {
           "field": "HeritageTypeName",
           "type": "nominal",
-          "title": "Heritage Type"
+          "title": "Heritage Type",
+          "scale": {
+          "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial", "Movable / Collection"],
+          "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796", "#ac6c53"]
+        }
         },
         "tooltip": [
           {"field": "SchoolName", "type": "nominal", "title": "School Name"},
