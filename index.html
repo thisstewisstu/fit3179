@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-  
+
 <head>
   <!-- Import Vega & Vega-Lite -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-  
+
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
-  
+
   <title>FIT3179 Data Visualisation II - Jasmine See</title>
 </head>
 
@@ -22,39 +22,71 @@
     <div class="description">
       <h2>Symbol Map of New South Wales</h2>
       <p>
-        This map visualizes the location of heritage sites across New South Wales government schools.
-        Each circle represents a school site, categorized by colour for heritage type and size for their endorsed significance.
-        A large majority of heritage sites are clustered along the coastline, aligning with the fact that many school zones are 
-        also located along the coast.
-        <br><br>
-        Source:
-        <ul>
-          <li><a href="https://mangomap.com/schoolcatchment/maps/56084/schoolcatchment.com.au-NSW-Sydney-Public-School-Catchment#" target="_blank">
-          https://mangomap.com/schoolcatchment/maps/56084/schoolcatchment.com.au-NSW-Sydney-Public-School-Catchment#</a></li>
-        </ul>
+        This map visualizes the location of heritage sites across New South Wales government schools. Each circle represents 
+        a school site, categorized by colour for heritage type and size for their endorsed significance. A large majority of 
+        heritage sites are clustered along the coastline, aligning with the fact that many school zones are also located 
+        along the coast. A slider is provider to display sites of a selected endorsed significance for easier viewing.
       </p>
+      <p>Source:</p>
+      <ul>
+        <li>
+          <a href="https://mangomap.com/schoolcatchment/maps/56084/schoolcatchment.com.au-NSW-Sydney-Public-School-Catchment#" target="_blank">
+            https://mangomap.com/schoolcatchment/maps/56084/schoolcatchment.com.au-NSW-Sydney-Public-School-Catchment#
+          </a>
+        </li>
+      </ul>
     </div>
   </div>
 
   <!-- Container for stacked bar chart and its description -->
-  <div class="container">
-    <div id="stacked_bar_chart" class="visualization"></div>
+  <div class="container flex-container">
     <div class="description">
       <h2>Number of Each Heritage Type Categorised by Endorsed Significance</h2>
       <p>
-        This stacked bar chart shows the endorsed significance of heritage sites, classified by heritage type.
-        The chart allows users to filter by the type of heritage for a more focused analysis by using a drop-down menu.
-        There is an overwhelming number of heritage sites which are only of endorsed significance of 1, after each site 
-        has been carefully assessed. This indicates that most sites are recognised as local heritage.
-        <br><br>
-        Sources:
-        <ul>
-          <li><a href="https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/assessing-heritage-significance-guidelines-assessing-places-objects-against-criteria-230167.pdf" target="_blank">
-            https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/assessing-heritage-significance-guidelines-assessing-places-objects-against-criteria-230167.pdf</a></li>
-          <li><a href="https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/levels-of-heritage-significance.pdf" target="_blank">
-            https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/levels-of-heritage-significance.pdf</a></li>
-        </ul>
+        This stacked bar chart shows the endorsed significance of heritage sites, classified by heritage type. The chart 
+        allows users to filter by the type of heritage for a more focused analysis by using a drop-down menu. There is an 
+        overwhelming number of heritage sites which are only of endorsed significance of 1, after each site has been 
+        carefully assessed. This indicates that most sites are recognised as local heritage.
       </p>
+      <p>Sources:</p>
+      <ul>
+        <li>
+          <a href="https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/assessing-heritage-significance-guidelines-assessing-places-objects-against-criteria-230167.pdf" target="_blank">
+            https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/assessing-heritage-significance-guidelines-assessing-places-objects-against-criteria-230167.pdf
+          </a>
+        </li>
+        <li>
+          <a href="https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/levels-of-heritage-significance.pdf" target="_blank">
+            https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Heritage/levels-of-heritage-significance.pdf
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div id="stacked_bar_chart" class="visualization"></div>
+  </div>
+
+  <!-- Container for donut chart and its description -->
+  <div class="container">
+    <div id="donut_chart" class="visualization"></div>
+    <div class="description">
+      <h3>Number of Each Heritage Type Overview</h3>
+      <p>
+        This donut chart shows the distribution of heritage types across all NSW government schools. A dropdown menu is provided 
+        to filter by a specific school. The options are limited to schools which are located in the City of Blacktown because 
+        the largest suburb in New South Wales is Blacktown with a population of 50,961. This provides additional information 
+        should the local government of Blacktown decide to modify or list other heritage sites in this area and the impact it can 
+        have on residents.
+      </p>
+      <p>Please note that while some suburbs and government area names are the same, in this context, Blacktown is the government 
+        area name and the options are schools which may not necessarily be in the suburb of Blacktown.</p>
+      <p>Sources:</p>
+      <ul>
+        <li>
+          <a href="https://blog.id.com.au/what-is-australias-largest-suburb" target="_blank">
+            https://blog.id.com.au/what-is-australias-largest-suburb
+          </a>
+        </li>
+      </ul>
     </div>
   </div>
 
@@ -63,7 +95,6 @@
     var vis1 = "json/aus_symbol_map.vg.json";
     vegaEmbed('#symbol_map', vis1).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      // testing 
     }).catch(console.error);
   </script>
 
@@ -75,6 +106,13 @@
     }).catch(console.error);
   </script>
 
+  <script>
+    // Embed donut chart
+    var vis3 = "json/donut_chart.vg.json";
+    vegaEmbed('#donut_chart', vis3).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
+
 </body>
 </html>
-

@@ -1,11 +1,41 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 600,
-  "height": 400,
+  "width": 650,
+  "height": 450,
   "data": {
       "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/data/merged_schools_data.csv"
   },
+  "params": [
+    {
+      "name": "SchoolNameSelection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Marsden Park Public School",
+          "Colyton Public School",
+          "Plumpton House School",
+          "Casuarina School",
+          "Riverstone High School",
+          "The Meadows Public School",
+          "Seven Hills North Public School"
+        ],
+        "labels": [
+          "Show All",
+          "Marsden Park Public School",
+          "Colyton Public School",
+          "Plumpton House School",
+          "Casuarina School",
+          "Riverstone High School",
+          "The Meadows Public School",
+          "Seven Hills North Public School"
+        ],
+        "name": "Select School Name: "
+      }
+    }
+  ],
   "transform": [
+      {"filter": "SchoolNameSelection == null || datum.SchoolName == SchoolNameSelection"},
       {
           "aggregate": [
               {"op": "count", "as": "HeritageTypeCount"}

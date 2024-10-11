@@ -23,6 +23,7 @@ h1 {
     flex: 1; /* Text takes less space compared to visualization */
     max-width: 300px; /* Maximum width for the description */
     padding: 10px; /* Padding inside the description box */
+    word-break: normal; /* Word will not break at end of container */
 }
 
 .description a {

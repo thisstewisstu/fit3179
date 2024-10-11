@@ -3,6 +3,21 @@
   "width": 650,
   "height": 450,
   "title": "Heritage Sites of NSW Government Schools in 2020",
+  
+  "params": [
+    {
+      "name": "EndorsedSignificanceSelection",
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 4,
+        "step": 1,
+        "name": "Select Endorsed Significance: "
+      },
+      "value": 1
+    }
+  ],
+  
   "projection": {
     "type": "equirectangular",
     "center": [149.2, -33.5],
@@ -61,6 +76,9 @@
         {
           "calculate": "datum.ItemName != '' ? datum.ItemName : null", 
           "as": "ConditionalItemName"
+        },
+        {
+          "filter": "datum.EndorsedSignificance == EndorsedSignificanceSelection"
         }
       ],
       "mark": {
@@ -74,12 +92,12 @@
           "type": "quantitative",
           "title": "Endorsed Significance",
           "scale": {
-            "domain": [0, 1, 2, 3, 4],  
-            "range": [50, 100, 200, 300, 450]
+            "domain": [1, 2, 3, 4],  
+            "range": [50, 100, 200, 300]
           },
           "legend": {
             "title": "Endorsed Significance",
-            "values": [0, 1, 2, 3, 4]  
+            "values": [1, 2, 3, 4]  
           }
         },
         "color": {
@@ -87,9 +105,9 @@
           "type": "nominal",
           "title": "Heritage Type",
           "scale": {
-          "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial", "Movable / Collection"],
-          "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796", "#ac6c53"]
-        }
+            "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial", "Movable / Collection"],
+            "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796", "#ac6c53"]
+          }
         },
         "tooltip": [
           {"field": "SchoolName", "type": "nominal", "title": "School Name"},
