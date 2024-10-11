@@ -16,14 +16,16 @@
             "Built",
             "Complex / Group",
             "Landscape",
-            "Archaeological-Terrestrial"
+            "Archaeological-Terrestrial",
+            "Movable / Collection"
           ],
           "labels": [
             "Show All",
             "Built",
             "Complex / Group",
             "Landscape",
-            "Archaeological-Terrestrial"
+            "Archaeological-Terrestrial",
+            "Movable / Collection"
           ],
           "name": "Select Heritage Type: "
         }
@@ -50,8 +52,8 @@
         "field": "HeritageTypeName",
         "type": "nominal",
         "scale": {
-          "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial"],
-          "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796"]
+          "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial", "Movable / Collection"],
+          "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796", "#ac6c53"]
         },
         "title": "Heritage Type"
       },
