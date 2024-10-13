@@ -1,67 +1,107 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 750,
-    "height": 450,
-    "title": "Endorsed Significance of Heritage Sites and Their Heritage Type",
-    "data": {
-      "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/data/merged_schools_data.csv"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 750,
+  "height": 450,
+  "title": "Endorsed Significance of Heritage Sites and Their Heritage Type",
+  "data": {
+    "url": "https://raw.githubusercontent.com/thisstewisstu/fit3179/refs/heads/main/data/merged_schools_data.csv"
+  },
+  "params": [
+    {
+      "name": "HeritageTypeSelection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Built",
+          "Complex / Group",
+          "Landscape",
+          "Archaeological-Terrestrial",
+          "Movable / Collection"
+        ],
+        "labels": [
+          "Show All",
+          "Built",
+          "Complex / Group",
+          "Landscape",
+          "Archaeological-Terrestrial",
+          "Movable / Collection"
+        ],
+        "name": "Select Heritage Type: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "HeritageTypeSelection == null || datum.HeritageTypeName == HeritageTypeSelection"
     },
-    "params": [
-      {
-        "name": "HeritageTypeSelection",
-        "bind": {
-          "input": "select",
-          "options": [
-            null,
-            "Built",
-            "Complex / Group",
-            "Landscape",
-            "Archaeological-Terrestrial",
-            "Movable / Collection"
+    {
+      "aggregate": [
+        {"op": "count", "as": "count"}
+      ],
+      "groupby": ["EndorsedSignificance", "HeritageTypeName"]
+    }
+  ],
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "EndorsedSignificance",
+          "type": "ordinal",
+          "title": "Endorsed Significance"
+        },
+        "y": {
+          "field": "count",
+          "type": "quantitative",
+          "title": "Count of Heritage Sites"
+        },
+        "color": {
+          "field": "HeritageTypeName",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial", "Movable / Collection"],
+            "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796", "#ac6c53"]
+          },
+          "title": "Heritage Type"
+        },
+        "tooltip": [
+          {"field": "EndorsedSignificance", "type": "ordinal", "title": "Endorsed Significance"},
+          {"field": "HeritageTypeName", "type": "nominal", "title": "Heritage Type"},
+          {"field": "count", "type": "quantitative", "title": "Count of Heritage Sites"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": -5  
+      },
+      "transform": [
+        {
+          "aggregate": [
+            {"op": "sum", "field": "count", "as": "totalCount"}
           ],
-          "labels": [
-            "Show All",
-            "Built",
-            "Complex / Group",
-            "Landscape",
-            "Archaeological-Terrestrial",
-            "Movable / Collection"
-          ],
-          "name": "Select Heritage Type: "
+          "groupby": ["EndorsedSignificance"]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "EndorsedSignificance",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "totalCount",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "totalCount",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "black"  
         }
       }
-    ],
-    "transform": [
-      {
-        "filter": "HeritageTypeSelection == null || datum.HeritageTypeName == HeritageTypeSelection"
-      }
-    ],
-    "mark": "bar",
-    "encoding": {
-      "x": {
-        "field": "EndorsedSignificance",
-        "type": "ordinal",
-        "title": "Endorsed Significance"
-      },
-      "y": {
-        "aggregate": "count",
-        "type": "quantitative",
-        "title": "Count of Heritage Sites"
-      },
-      "color": {
-        "field": "HeritageTypeName",
-        "type": "nominal",
-        "scale": {
-          "domain": ["Built", "Complex / Group", "Landscape", "Archaeological-Terrestrial", "Movable / Collection"],
-          "range": ["#f3798c", "#cc77ed", "#6464f6", "#83e796", "#ac6c53"]
-        },
-        "title": "Heritage Type"
-      },
-      "tooltip": [
-      {"field": "EndorsedSignificance", "type": "ordinal", "title": "Endorsed Significance"},
-      {"field": "HeritageTypeName", "type": "nominal", "title": "Heritage Type"},
-      {"aggregate": "count", "type": "quantitative", "title": "Count of Heritage Sites"}
-    ]
     }
-  }
-  
+  ]
+}

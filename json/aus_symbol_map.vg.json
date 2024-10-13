@@ -9,12 +9,12 @@
       "name": "EndorsedSignificanceSelection",
       "bind": {
         "input": "range",
-        "min": 1,
+        "min": 0,
         "max": 4,
         "step": 1,
         "name": "Select Endorsed Significance: "
       },
-      "value": 1
+      "value": 0
     }
   ],
   
